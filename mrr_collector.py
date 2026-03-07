@@ -218,8 +218,8 @@ def main() -> None:
                 "time": point["time"],
                 "rig_id": rig_id,
                 "rig": name,
-                "value": safe_float(point["value"]),
-                "unit": graph_hashtype,
+                "value": safe_float(point["value"]) / 1_000_000_000_000,
+                "unit": "TH/s",
             })
 
         rigs_output.append({
