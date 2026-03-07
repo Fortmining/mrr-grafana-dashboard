@@ -48,7 +48,7 @@ jobs:
           git add data/*.json || true
           git diff --cached --quiet || git commit -m "Update MRR snapshot"
 
-      - name: Push changes
+      - name: Push data
         run: |
           git pull --rebase origin main
           git push origin main
