@@ -218,7 +218,7 @@ def main() -> None:
                 "time": point["time"],
                 "rig_id": rig_id,
                 "rig": name,
-                "value": point["value"],
+                "value": safe_float(point["value"]) / 1_000_000_000_000,
                 "unit": graph_hashtype,
             })
 
