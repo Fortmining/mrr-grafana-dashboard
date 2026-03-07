@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-07T19:47:07.768653+00:00",
+  "generated_at": "2026-03-07T20:34:34.298372+00:00",
   "summary": {
     "wallet_btc_confirmed": 0.0,
     "wallet_btc_pending": 0.0,
@@ -8,10 +8,10 @@
     "total_rigs": 3,
     "rigs_online": 3,
     "active_rentals": 3,
-    "utilization_7d_pct": 4.64,
-    "current_mrr_btc_day_total": 1.265e-05,
+    "utilization_7d_pct": 5.11,
+    "current_mrr_btc_day_total": 1.272e-05,
     "fallback_btc_day_total": 0.0,
-    "mrr_minus_fallback_btc_day": 1.265e-05
+    "mrr_minus_fallback_btc_day": 1.272e-05
   },
   "rigs": [
     {
@@ -24,22 +24,22 @@
       "poolstatus": "online",
       "region": "us-south",
       "rpi": 0.0,
-      "hashrate_last_5min": 13979819.97,
-      "hashrate_last_15min": 11777870.297,
-      "hashrate_last_30min": 11547433.702,
+      "hashrate_last_5min": 12136327.229,
+      "hashrate_last_15min": 11060956.458,
+      "hashrate_last_30min": 11854682.506,
       "hashrate_unit": "mh",
       "advertised_hashrate": 0.0115,
       "advertised_unit": "ph",
-      "price_btc_day": 0.00050588,
-      "price_btc_hour": 2.42399e-07,
+      "price_btc_day": 0.00050284,
+      "price_btc_hour": 2.40943e-07,
       "price_btc_enabled": true,
       "active_rental_id": "5428039",
       "active_rental_paid_btc": 8.36e-06,
       "active_rental_start": "2026-03-07 01:27:05 UTC",
       "active_rental_end": "2026-03-08 13:57:05 UTC",
-      "utilization_7d_pct": 10.91,
+      "utilization_7d_pct": 11.38,
       "fallback_btc_day": 0.0,
-      "mrr_vs_fallback_btc_day": 5.82e-06
+      "mrr_vs_fallback_btc_day": 5.78e-06
     },
     {
       "id": "372933",
@@ -51,22 +51,22 @@
       "poolstatus": "online",
       "region": "us-south",
       "rpi": 0.0,
-      "hashrate_last_5min": 339.293,
-      "hashrate_last_15min": 490.09,
-      "hashrate_last_30min": 480.665,
+      "hashrate_last_5min": 381.704,
+      "hashrate_last_15min": 565.488,
+      "hashrate_last_30min": 577.269,
       "hashrate_unit": "mh",
       "advertised_hashrate": 0.42,
       "advertised_unit": "gh",
-      "price_btc_day": 8.14e-06,
-      "price_btc_hour": 1.42442e-07,
+      "price_btc_day": 8.26e-06,
+      "price_btc_hour": 1.44498e-07,
       "price_btc_enabled": true,
       "active_rental_id": "5429077",
       "active_rental_paid_btc": 3.33e-06,
       "active_rental_start": "2026-03-07 17:15:27 UTC",
       "active_rental_end": "2026-03-08 17:20:27 UTC",
-      "utilization_7d_pct": 1.5,
+      "utilization_7d_pct": 1.98,
       "fallback_btc_day": 0.0,
-      "mrr_vs_fallback_btc_day": 3.42e-06
+      "mrr_vs_fallback_btc_day": 3.47e-06
     },
     {
       "id": "372932",
@@ -78,22 +78,22 @@
       "poolstatus": "online",
       "region": "us-south",
       "rpi": 0.0,
-      "hashrate_last_5min": 791.683,
-      "hashrate_last_15min": 590.621,
-      "hashrate_last_30min": 571.771,
+      "hashrate_last_5min": 622.037,
+      "hashrate_last_15min": 471.24,
+      "hashrate_last_30min": 493.231,
       "hashrate_unit": "mh",
       "advertised_hashrate": 0.42,
       "advertised_unit": "gh",
-      "price_btc_day": 8.14e-06,
-      "price_btc_hour": 1.42442e-07,
+      "price_btc_day": 8.26e-06,
+      "price_btc_hour": 1.44498e-07,
       "price_btc_enabled": true,
       "active_rental_id": "5429078",
       "active_rental_paid_btc": 3.33e-06,
       "active_rental_start": "2026-03-07 17:15:57 UTC",
       "active_rental_end": "2026-03-08 17:20:57 UTC",
-      "utilization_7d_pct": 1.5,
+      "utilization_7d_pct": 1.97,
       "fallback_btc_day": 0.0,
-      "mrr_vs_fallback_btc_day": 3.42e-06
+      "mrr_vs_fallback_btc_day": 3.47e-06
     }
   ]
 }
