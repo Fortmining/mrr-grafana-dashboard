@@ -1,11 +1,5 @@
 [
   {
-    "date": "2026-02-06",
-    "rig_id": "372881",
-    "rig": "Antminer S9 Rental 1",
-    "btc": 0.0
-  },
-  {
     "date": "2026-02-07",
     "rig_id": "372881",
     "rig": "Antminer S9 Rental 1",
@@ -180,9 +174,9 @@
     "btc": 8.11e-06
   },
   {
-    "date": "2026-02-06",
-    "rig_id": "372933",
-    "rig": "L3+ Fast Connect 420MH | VNish Tuned | Reliable",
+    "date": "2026-03-08",
+    "rig_id": "372881",
+    "rig": "Antminer S9 Rental 1",
     "btc": 0.0
   },
   {
@@ -360,9 +354,9 @@
     "btc": 3.23e-06
   },
   {
-    "date": "2026-02-06",
-    "rig_id": "372932",
-    "rig": "Stable L3+ 420MH | VNish Firmware | Low Rejects",
+    "date": "2026-03-08",
+    "rig_id": "372933",
+    "rig": "L3+ Fast Connect 420MH | VNish Tuned | Reliable",
     "btc": 0.0
   },
   {
@@ -538,5 +532,11 @@
     "rig_id": "372932",
     "rig": "Stable L3+ 420MH | VNish Firmware | Low Rejects",
     "btc": 3.23e-06
+  },
+  {
+    "date": "2026-03-08",
+    "rig_id": "372932",
+    "rig": "Stable L3+ 420MH | VNish Firmware | Low Rejects",
+    "btc": 0.0
   }
 ]
