@@ -357,7 +357,7 @@
     "date": "2026-03-09",
     "rig_id": "372933",
     "rig": "L3+ Fast Connect 420MH | VNish Tuned | Reliable",
-    "btc": 0.0
+    "btc": 2.23e-06
   },
   {
     "date": "2026-02-08",
@@ -537,6 +537,6 @@
     "date": "2026-03-09",
     "rig_id": "372932",
     "rig": "Stable L3+ 420MH | VNish Firmware | Low Rejects",
-    "btc": 0.0
+    "btc": 4.46e-06
   }
 ]
