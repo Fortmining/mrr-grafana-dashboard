@@ -26890,7 +26890,154 @@
     "time": "2026-03-09T16:41:00+00:00",
     "rig_id": "372881",
     "rig": "Antminer S9 Rental 1",
-    "value": 11.326997229266,
+    "value": 11.457192481784,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T16:42:00+00:00",
+    "rig_id": "372881",
+    "rig": "Antminer S9 Rental 1",
+    "value": 11.52229106248,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T16:43:00+00:00",
+    "rig_id": "372881",
+    "rig": "Antminer S9 Rental 1",
+    "value": 11.418134287803,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T16:44:00+00:00",
+    "rig_id": "372881",
+    "rig": "Antminer S9 Rental 1",
+    "value": 11.313977751736,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T16:45:00+00:00",
+    "rig_id": "372881",
+    "rig": "Antminer S9 Rental 1",
+    "value": 11.431154003943,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T16:46:00+00:00",
+    "rig_id": "372881",
+    "rig": "Antminer S9 Rental 1",
+    "value": 11.300958990034,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T16:47:00+00:00",
+    "rig_id": "372881",
+    "rig": "Antminer S9 Rental 1",
+    "value": 11.379076093823,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T16:48:00+00:00",
+    "rig_id": "372881",
+    "rig": "Antminer S9 Rental 1",
+    "value": 11.313977513127,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T16:49:00+00:00",
+    "rig_id": "372881",
+    "rig": "Antminer S9 Rental 1",
+    "value": 11.379074900776,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T16:50:00+00:00",
+    "rig_id": "372881",
+    "rig": "Antminer S9 Rental 1",
+    "value": 11.274918364709,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T16:51:00+00:00",
+    "rig_id": "372881",
+    "rig": "Antminer S9 Rental 1",
+    "value": 11.274918245404,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T16:52:00+00:00",
+    "rig_id": "372881",
+    "rig": "Antminer S9 Rental 1",
+    "value": 11.274918245404,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T16:53:00+00:00",
+    "rig_id": "372881",
+    "rig": "Antminer S9 Rental 1",
+    "value": 11.248878813126,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T16:54:00+00:00",
+    "rig_id": "372881",
+    "rig": "Antminer S9 Rental 1",
+    "value": 11.261898529265,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T16:55:00+00:00",
+    "rig_id": "372881",
+    "rig": "Antminer S9 Rental 1",
+    "value": 11.170761709337,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T16:56:00+00:00",
+    "rig_id": "372881",
+    "rig": "Antminer S9 Rental 1",
+    "value": 11.157741993198,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T16:57:00+00:00",
+    "rig_id": "372881",
+    "rig": "Antminer S9 Rental 1",
+    "value": 11.11868284478,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T16:58:00+00:00",
+    "rig_id": "372881",
+    "rig": "Antminer S9 Rental 1",
+    "value": 11.092643412501,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T16:59:00+00:00",
+    "rig_id": "372881",
+    "rig": "Antminer S9 Rental 1",
+    "value": 11.17076051629,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T17:00:00+00:00",
+    "rig_id": "372881",
+    "rig": "Antminer S9 Rental 1",
+    "value": 11.287936768497,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T17:01:00+00:00",
+    "rig_id": "372881",
+    "rig": "Antminer S9 Rental 1",
+    "value": 11.287936768497,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T17:02:00+00:00",
+    "rig_id": "372881",
+    "rig": "Antminer S9 Rental 1",
+    "value": 11.092643412501,
     "unit": "TH/s"
   },
   {
@@ -48191,7 +48338,154 @@
     "time": "2026-03-09T16:41:00+00:00",
     "rig_id": "372933",
     "rig": "L3+ Fast Connect 420MH | VNish Tuned | Reliable",
+    "value": 0.0004943976093013299,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T16:42:00+00:00",
+    "rig_id": "372933",
+    "rig": "L3+ Fast Connect 420MH | VNish Tuned | Reliable",
+    "value": 0.00049699970198187,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T16:43:00+00:00",
+    "rig_id": "372933",
+    "rig": "L3+ Fast Connect 420MH | VNish Tuned | Reliable",
+    "value": 0.00049092815239396,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T16:44:00+00:00",
+    "rig_id": "372933",
+    "rig": "L3+ Fast Connect 420MH | VNish Tuned | Reliable",
+    "value": 0.0004943976093013299,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T16:45:00+00:00",
+    "rig_id": "372933",
+    "rig": "L3+ Fast Connect 420MH | VNish Tuned | Reliable",
+    "value": 0.0004883260597134199,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T16:46:00+00:00",
+    "rig_id": "372933",
+    "rig": "L3+ Fast Connect 420MH | VNish Tuned | Reliable",
+    "value": 0.00048659133125972996,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T16:47:00+00:00",
+    "rig_id": "372933",
+    "rig": "L3+ Fast Connect 420MH | VNish Tuned | Reliable",
+    "value": 0.00048572396703289004,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T16:48:00+00:00",
+    "rig_id": "372933",
+    "rig": "L3+ Fast Connect 420MH | VNish Tuned | Reliable",
+    "value": 0.00048572396703289004,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T16:49:00+00:00",
+    "rig_id": "372933",
+    "rig": "L3+ Fast Connect 420MH | VNish Tuned | Reliable",
+    "value": 0.00049006078816711,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T16:50:00+00:00",
+    "rig_id": "372933",
+    "rig": "L3+ Fast Connect 420MH | VNish Tuned | Reliable",
+    "value": 0.00049786706620871,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T16:51:00+00:00",
+    "rig_id": "372933",
+    "rig": "L3+ Fast Connect 420MH | VNish Tuned | Reliable",
+    "value": 0.00049266288084764,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T16:52:00+00:00",
+    "rig_id": "372933",
+    "rig": "L3+ Fast Connect 420MH | VNish Tuned | Reliable",
+    "value": 0.0004961323377550201,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T16:53:00+00:00",
+    "rig_id": "372933",
+    "rig": "L3+ Fast Connect 420MH | VNish Tuned | Reliable",
+    "value": 0.00049266288084764,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T16:54:00+00:00",
+    "rig_id": "372933",
+    "rig": "L3+ Fast Connect 420MH | VNish Tuned | Reliable",
+    "value": 0.00049353024507449,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T16:55:00+00:00",
+    "rig_id": "372933",
+    "rig": "L3+ Fast Connect 420MH | VNish Tuned | Reliable",
+    "value": 0.00049526497352818,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T16:56:00+00:00",
+    "rig_id": "372933",
+    "rig": "L3+ Fast Connect 420MH | VNish Tuned | Reliable",
+    "value": 0.00048745869548658,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T16:57:00+00:00",
+    "rig_id": "372933",
+    "rig": "L3+ Fast Connect 420MH | VNish Tuned | Reliable",
+    "value": 0.00048312187435236003,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T16:58:00+00:00",
+    "rig_id": "372933",
+    "rig": "L3+ Fast Connect 420MH | VNish Tuned | Reliable",
+    "value": 0.0004839892385792,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T16:59:00+00:00",
+    "rig_id": "372933",
+    "rig": "L3+ Fast Connect 420MH | VNish Tuned | Reliable",
+    "value": 0.0004839892385792,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T17:00:00+00:00",
+    "rig_id": "372933",
+    "rig": "L3+ Fast Connect 420MH | VNish Tuned | Reliable",
+    "value": 0.00047791768899129,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T17:01:00+00:00",
+    "rig_id": "372933",
+    "rig": "L3+ Fast Connect 420MH | VNish Tuned | Reliable",
     "value": 0.00048225451012550997,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T17:02:00+00:00",
+    "rig_id": "372933",
+    "rig": "L3+ Fast Connect 420MH | VNish Tuned | Reliable",
+    "value": 0.00047184613940338,
     "unit": "TH/s"
   },
   {
@@ -69408,7 +69702,154 @@
     "time": "2026-03-09T16:41:00+00:00",
     "rig_id": "372932",
     "rig": "Stable L3+ 420MH | VNish Firmware | Low Rejects",
-    "value": 0.00048258355656932,
+    "value": 0.00048932669105038,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T16:42:00+00:00",
+    "rig_id": "372932",
+    "rig": "Stable L3+ 420MH | VNish Firmware | Low Rejects",
+    "value": 0.00049189508129678,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T16:43:00+00:00",
+    "rig_id": "372932",
+    "rig": "Stable L3+ 420MH | VNish Firmware | Low Rejects",
+    "value": 0.00049810276444843,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T16:44:00+00:00",
+    "rig_id": "372932",
+    "rig": "Stable L3+ 420MH | VNish Firmware | Low Rejects",
+    "value": 0.00050291864555065,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T16:45:00+00:00",
+    "rig_id": "372932",
+    "rig": "Stable L3+ 420MH | VNish Firmware | Low Rejects",
+    "value": 0.00049949263591652,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T16:46:00+00:00",
+    "rig_id": "372932",
+    "rig": "Stable L3+ 420MH | VNish Firmware | Low Rejects",
+    "value": 0.00049756538253767,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T16:47:00+00:00",
+    "rig_id": "372932",
+    "rig": "Stable L3+ 420MH | VNish Firmware | Low Rejects",
+    "value": 0.0004975647390105599,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T16:48:00+00:00",
+    "rig_id": "372932",
+    "rig": "Stable L3+ 420MH | VNish Firmware | Low Rejects",
+    "value": 0.0005032369708327801,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T16:49:00+00:00",
+    "rig_id": "372932",
+    "rig": "Stable L3+ 420MH | VNish Firmware | Low Rejects",
+    "value": 0.00049456593944576,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T16:50:00+00:00",
+    "rig_id": "372932",
+    "rig": "Stable L3+ 420MH | VNish Firmware | Low Rejects",
+    "value": 0.00049799066202567,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T16:51:00+00:00",
+    "rig_id": "372932",
+    "rig": "Stable L3+ 420MH | VNish Firmware | Low Rejects",
+    "value": 0.0004995957473462,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T16:52:00+00:00",
+    "rig_id": "372932",
+    "rig": "Stable L3+ 420MH | VNish Firmware | Low Rejects",
+    "value": 0.0004960627835062,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T16:53:00+00:00",
+    "rig_id": "372932",
+    "rig": "Stable L3+ 420MH | VNish Firmware | Low Rejects",
+    "value": 0.00049327919779385,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T16:54:00+00:00",
+    "rig_id": "372932",
+    "rig": "Stable L3+ 420MH | VNish Firmware | Low Rejects",
+    "value": 0.00048899683743972,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T16:55:00+00:00",
+    "rig_id": "372932",
+    "rig": "Stable L3+ 420MH | VNish Firmware | Low Rejects",
+    "value": 0.00048364421795385,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T16:56:00+00:00",
+    "rig_id": "372932",
+    "rig": "Stable L3+ 420MH | VNish Firmware | Low Rejects",
+    "value": 0.00048824552873074,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T16:57:00+00:00",
+    "rig_id": "372932",
+    "rig": "Stable L3+ 420MH | VNish Firmware | Low Rejects",
+    "value": 0.00048696069927367004,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T16:58:00+00:00",
+    "rig_id": "372932",
+    "rig": "Stable L3+ 420MH | VNish Firmware | Low Rejects",
+    "value": 0.00048516665600683,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T16:59:00+00:00",
+    "rig_id": "372932",
+    "rig": "Stable L3+ 420MH | VNish Firmware | Low Rejects",
+    "value": 0.00048100373428452,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T17:00:00+00:00",
+    "rig_id": "372932",
+    "rig": "Stable L3+ 420MH | VNish Firmware | Low Rejects",
+    "value": 0.00048107593802638,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T17:01:00+00:00",
+    "rig_id": "372932",
+    "rig": "Stable L3+ 420MH | VNish Firmware | Low Rejects",
+    "value": 0.00047556780561749,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T17:02:00+00:00",
+    "rig_id": "372932",
+    "rig": "Stable L3+ 420MH | VNish Firmware | Low Rejects",
+    "value": 0.00047640380984889,
     "unit": "TH/s"
   }
 ]
