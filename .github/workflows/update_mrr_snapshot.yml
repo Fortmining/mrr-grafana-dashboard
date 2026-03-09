@@ -30,6 +30,14 @@ jobs:
           MRR_API_KEY: ${{ secrets.MRR_API_KEY }}
           MRR_API_SECRET: ${{ secrets.MRR_API_SECRET }}
           MRR_RIG_IDS: ${{ secrets.MRR_RIG_IDS }}
+          RIG_372881_NAME: Antminer S9
+          RIG_372933_NAME: L3+ 82
+          RIG_372932_NAME: L3+ 83
+          RIG_373049_NAME: Pro38
+          RIG_373050_NAME: Pro41
+          RIG_373074_NAME: Ultra46
+          RIG_373075_NAME: Ultra51
+          RIG_373077_NAME: Ultra52
         run: |
           mkdir -p data
           python mrr_collector.py
