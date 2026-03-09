@@ -27037,7 +27037,161 @@
     "time": "2026-03-09T17:02:00+00:00",
     "rig_id": "372881",
     "rig": "Antminer S9 Rental 1",
-    "value": 11.092643412501,
+    "value": 11.340014440007,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T17:03:00+00:00",
+    "rig_id": "372881",
+    "rig": "Antminer S9 Rental 1",
+    "value": 11.509268363725,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T17:04:00+00:00",
+    "rig_id": "372881",
+    "rig": "Antminer S9 Rental 1",
+    "value": 11.392092111518,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T17:05:00+00:00",
+    "rig_id": "372881",
+    "rig": "Antminer S9 Rental 1",
+    "value": 11.405111827657,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T17:06:00+00:00",
+    "rig_id": "372881",
+    "rig": "Antminer S9 Rental 1",
+    "value": 11.366052679239,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T17:07:00+00:00",
+    "rig_id": "372881",
+    "rig": "Antminer S9 Rental 1",
+    "value": 11.483228931446,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T17:08:00+00:00",
+    "rig_id": "372881",
+    "rig": "Antminer S9 Rental 1",
+    "value": 11.613423945355,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T17:09:00+00:00",
+    "rig_id": "372881",
+    "rig": "Antminer S9 Rental 1",
+    "value": 11.613423945355,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T17:10:00+00:00",
+    "rig_id": "372881",
+    "rig": "Antminer S9 Rental 1",
+    "value": 11.613423945355,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T17:11:00+00:00",
+    "rig_id": "372881",
+    "rig": "Antminer S9 Rental 1",
+    "value": 11.639463377633,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T17:12:00+00:00",
+    "rig_id": "372881",
+    "rig": "Antminer S9 Rental 1",
+    "value": 11.613423945355,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T17:13:00+00:00",
+    "rig_id": "372881",
+    "rig": "Antminer S9 Rental 1",
+    "value": 11.652483093773,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T17:14:00+00:00",
+    "rig_id": "372881",
+    "rig": "Antminer S9 Rental 1",
+    "value": 11.522287244731,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T17:15:00+00:00",
+    "rig_id": "372881",
+    "rig": "Antminer S9 Rental 1",
+    "value": 11.509268721639,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T17:16:00+00:00",
+    "rig_id": "372881",
+    "rig": "Antminer S9 Rental 1",
+    "value": 11.600405541567,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T17:17:00+00:00",
+    "rig_id": "372881",
+    "rig": "Antminer S9 Rental 1",
+    "value": 11.561347586195,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T17:18:00+00:00",
+    "rig_id": "372881",
+    "rig": "Antminer S9 Rental 1",
+    "value": 11.626444973845,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T17:19:00+00:00",
+    "rig_id": "372881",
+    "rig": "Antminer S9 Rental 1",
+    "value": 11.509268840943,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T17:20:00+00:00",
+    "rig_id": "372881",
+    "rig": "Antminer S9 Rental 1",
+    "value": 11.561346512454,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T17:21:00+00:00",
+    "rig_id": "372881",
+    "rig": "Antminer S9 Rental 1",
+    "value": 11.392092350127,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T17:22:00+00:00",
+    "rig_id": "372881",
+    "rig": "Antminer S9 Rental 1",
+    "value": 11.535308034612,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T17:23:00+00:00",
+    "rig_id": "372881",
+    "rig": "Antminer S9 Rental 1",
+    "value": 11.496248886195,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T17:24:00+00:00",
+    "rig_id": "372881",
+    "rig": "Antminer S9 Rental 1",
+    "value": 11.418132259624,
     "unit": "TH/s"
   },
   {
@@ -48485,7 +48639,161 @@
     "time": "2026-03-09T17:02:00+00:00",
     "rig_id": "372933",
     "rig": "L3+ Fast Connect 420MH | VNish Tuned | Reliable",
-    "value": 0.00047184613940338,
+    "value": 0.00047531559631076,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T17:03:00+00:00",
+    "rig_id": "372933",
+    "rig": "L3+ Fast Connect 420MH | VNish Tuned | Reliable",
+    "value": 0.00047791768899129,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T17:04:00+00:00",
+    "rig_id": "372933",
+    "rig": "L3+ Fast Connect 420MH | VNish Tuned | Reliable",
+    "value": 0.00047791768899129,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T17:05:00+00:00",
+    "rig_id": "372933",
+    "rig": "L3+ Fast Connect 420MH | VNish Tuned | Reliable",
+    "value": 0.00049092815239396,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T17:06:00+00:00",
+    "rig_id": "372933",
+    "rig": "L3+ Fast Connect 420MH | VNish Tuned | Reliable",
+    "value": 0.00049006078816711,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T17:07:00+00:00",
+    "rig_id": "372933",
+    "rig": "L3+ Fast Connect 420MH | VNish Tuned | Reliable",
+    "value": 0.00048312187435236003,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T17:08:00+00:00",
+    "rig_id": "372933",
+    "rig": "L3+ Fast Connect 420MH | VNish Tuned | Reliable",
+    "value": 0.00047444823208391,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T17:09:00+00:00",
+    "rig_id": "372933",
+    "rig": "L3+ Fast Connect 420MH | VNish Tuned | Reliable",
+    "value": 0.00047358086785707004,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T17:10:00+00:00",
+    "rig_id": "372933",
+    "rig": "L3+ Fast Connect 420MH | VNish Tuned | Reliable",
+    "value": 0.00047097877517653,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T17:11:00+00:00",
+    "rig_id": "372933",
+    "rig": "L3+ Fast Connect 420MH | VNish Tuned | Reliable",
+    "value": 0.000468376682496,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T17:12:00+00:00",
+    "rig_id": "372933",
+    "rig": "L3+ Fast Connect 420MH | VNish Tuned | Reliable",
+    "value": 0.00047531559631076,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T17:13:00+00:00",
+    "rig_id": "372933",
+    "rig": "L3+ Fast Connect 420MH | VNish Tuned | Reliable",
+    "value": 0.00048051978167182,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T17:14:00+00:00",
+    "rig_id": "372933",
+    "rig": "L3+ Fast Connect 420MH | VNish Tuned | Reliable",
+    "value": 0.0004839892385792,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T17:15:00+00:00",
+    "rig_id": "372933",
+    "rig": "L3+ Fast Connect 420MH | VNish Tuned | Reliable",
+    "value": 0.00047271350363022,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T17:16:00+00:00",
+    "rig_id": "372933",
+    "rig": "L3+ Fast Connect 420MH | VNish Tuned | Reliable",
+    "value": 0.00047464290822827,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T17:17:00+00:00",
+    "rig_id": "372933",
+    "rig": "L3+ Fast Connect 420MH | VNish Tuned | Reliable",
+    "value": 0.00047282996365084,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T17:18:00+00:00",
+    "rig_id": "372933",
+    "rig": "L3+ Fast Connect 420MH | VNish Tuned | Reliable",
+    "value": 0.00048169942202596,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T17:19:00+00:00",
+    "rig_id": "372933",
+    "rig": "L3+ Fast Connect 420MH | VNish Tuned | Reliable",
+    "value": 0.00048380064836267,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T17:20:00+00:00",
+    "rig_id": "372933",
+    "rig": "L3+ Fast Connect 420MH | VNish Tuned | Reliable",
+    "value": 0.00048634096244053,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T17:21:00+00:00",
+    "rig_id": "372933",
+    "rig": "L3+ Fast Connect 420MH | VNish Tuned | Reliable",
+    "value": 0.00048380086900053,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T17:22:00+00:00",
+    "rig_id": "372933",
+    "rig": "L3+ Fast Connect 420MH | VNish Tuned | Reliable",
+    "value": 0.00047692395442631,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T17:23:00+00:00",
+    "rig_id": "372933",
+    "rig": "L3+ Fast Connect 420MH | VNish Tuned | Reliable",
+    "value": 0.00047059530656427004,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T17:24:00+00:00",
+    "rig_id": "372933",
+    "rig": "L3+ Fast Connect 420MH | VNish Tuned | Reliable",
+    "value": 0.00046799321388373,
     "unit": "TH/s"
   },
   {
@@ -69849,7 +70157,4277 @@
     "time": "2026-03-09T17:02:00+00:00",
     "rig_id": "372932",
     "rig": "Stable L3+ 420MH | VNish Firmware | Low Rejects",
-    "value": 0.00047640380984889,
+    "value": 0.00047929372462649,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T17:03:00+00:00",
+    "rig_id": "372932",
+    "rig": "Stable L3+ 420MH | VNish Firmware | Low Rejects",
+    "value": 0.00047056887598649004,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T17:04:00+00:00",
+    "rig_id": "372932",
+    "rig": "Stable L3+ 420MH | VNish Firmware | Low Rejects",
+    "value": 0.00048012299204836,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T17:05:00+00:00",
+    "rig_id": "372932",
+    "rig": "Stable L3+ 420MH | VNish Firmware | Low Rejects",
+    "value": 0.00049076013665849,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T17:06:00+00:00",
+    "rig_id": "372932",
+    "rig": "Stable L3+ 420MH | VNish Firmware | Low Rejects",
+    "value": 0.0004953977975239099,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T17:07:00+00:00",
+    "rig_id": "372932",
+    "rig": "Stable L3+ 420MH | VNish Firmware | Low Rejects",
+    "value": 0.00049374775723804,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T17:08:00+00:00",
+    "rig_id": "372932",
+    "rig": "Stable L3+ 420MH | VNish Firmware | Low Rejects",
+    "value": 0.0004940389072896,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T17:09:00+00:00",
+    "rig_id": "372932",
+    "rig": "Stable L3+ 420MH | VNish Firmware | Low Rejects",
+    "value": 0.00049158706899627,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T17:10:00+00:00",
+    "rig_id": "372932",
+    "rig": "Stable L3+ 420MH | VNish Firmware | Low Rejects",
+    "value": 0.00049710911997724,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T17:11:00+00:00",
+    "rig_id": "372932",
+    "rig": "Stable L3+ 420MH | VNish Firmware | Low Rejects",
+    "value": 0.00049847448225564,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T17:12:00+00:00",
+    "rig_id": "372932",
+    "rig": "Stable L3+ 420MH | VNish Firmware | Low Rejects",
+    "value": 0.00049906132382151,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T17:13:00+00:00",
+    "rig_id": "372932",
+    "rig": "Stable L3+ 420MH | VNish Firmware | Low Rejects",
+    "value": 0.00049312075958044,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T17:14:00+00:00",
+    "rig_id": "372932",
+    "rig": "Stable L3+ 420MH | VNish Firmware | Low Rejects",
+    "value": 0.0004916841496575999,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T17:15:00+00:00",
+    "rig_id": "372932",
+    "rig": "Stable L3+ 420MH | VNish Firmware | Low Rejects",
+    "value": 0.0004890892644807101,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T17:16:00+00:00",
+    "rig_id": "372932",
+    "rig": "Stable L3+ 420MH | VNish Firmware | Low Rejects",
+    "value": 0.00048368622924230997,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T17:17:00+00:00",
+    "rig_id": "372932",
+    "rig": "Stable L3+ 420MH | VNish Firmware | Low Rejects",
+    "value": 0.00048528304064284004,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T17:18:00+00:00",
+    "rig_id": "372932",
+    "rig": "Stable L3+ 420MH | VNish Firmware | Low Rejects",
+    "value": 0.00048666434400711,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T17:19:00+00:00",
+    "rig_id": "372932",
+    "rig": "Stable L3+ 420MH | VNish Firmware | Low Rejects",
+    "value": 0.00048045347999289,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T17:20:00+00:00",
+    "rig_id": "372932",
+    "rig": "Stable L3+ 420MH | VNish Firmware | Low Rejects",
+    "value": 0.00048354586678613,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T17:21:00+00:00",
+    "rig_id": "372932",
+    "rig": "Stable L3+ 420MH | VNish Firmware | Low Rejects",
+    "value": 0.00047883057816462,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T17:22:00+00:00",
+    "rig_id": "372932",
+    "rig": "Stable L3+ 420MH | VNish Firmware | Low Rejects",
+    "value": 0.00047775300121031,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T17:23:00+00:00",
+    "rig_id": "372932",
+    "rig": "Stable L3+ 420MH | VNish Firmware | Low Rejects",
+    "value": 0.00047892530535538,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T17:24:00+00:00",
+    "rig_id": "372932",
+    "rig": "Stable L3+ 420MH | VNish Firmware | Low Rejects",
+    "value": 0.00047218217087431,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T12:10:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.0,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T12:11:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.0,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T12:12:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.0,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T12:13:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.0,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T12:14:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.0,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T12:15:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.0,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T12:16:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.0,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T12:17:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.0,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T12:18:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.0,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T12:19:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.0,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T12:20:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.0,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T12:21:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.0,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T12:22:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.0,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T12:23:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.0,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T12:24:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.0,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T12:25:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.0,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T12:26:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.0,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T12:27:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.0,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T12:28:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.0,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T12:29:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.0,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T12:30:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.0,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T12:31:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.0,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T12:32:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.0,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T12:33:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.0,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T12:34:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.0,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T12:35:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.0,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T12:36:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.0,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T12:37:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.0,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T12:38:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.0,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T12:39:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.0,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T12:40:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.0,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T12:41:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.0,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T12:42:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.0,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T12:43:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.0,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T12:44:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.0,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T12:45:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.0,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T12:46:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.0,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T12:47:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.0,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T12:48:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.0,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T12:49:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.0,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T12:50:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.0,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T12:51:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.0,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T12:52:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.0,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T12:53:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.0,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T12:54:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.0,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T12:55:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.0,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T12:56:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.0,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T12:57:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.0,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T12:58:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.0,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T12:59:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.0,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T13:00:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.0,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T13:01:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.0,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T13:02:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.0,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T13:03:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.0,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T13:04:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.0,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T13:05:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.0,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T13:06:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.0,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T13:07:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.0,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T13:08:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.0,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T13:09:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.0,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T13:10:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.0,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T13:11:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.0,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T13:12:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.0,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T13:13:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.0,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T13:14:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.0,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T13:15:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.0,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T13:16:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.0,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T13:17:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.0,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T13:18:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.0,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T13:19:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.0,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T13:20:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.0,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T13:21:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.0,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T13:22:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.0,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T13:23:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.0,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T13:24:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.0,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T13:25:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.0,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T13:26:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.0,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T13:27:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.0,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T13:28:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.0,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T13:29:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.0,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T13:30:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.0,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T13:31:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.0,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T13:32:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.0,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T13:33:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.0,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T13:34:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.0,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T13:35:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.0,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T13:36:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.0,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T13:37:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.0,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T13:38:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.0,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T13:39:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.0,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T13:40:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.0,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T13:41:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.0,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T13:42:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.0,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T13:43:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.0,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T13:44:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.0,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T13:45:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.0,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T13:46:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.0,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T13:47:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.0,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T13:48:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.0,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T13:49:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.0,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T13:50:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.0,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T13:51:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.0,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T13:52:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.0,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T13:53:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.0,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T13:54:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.0,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T13:55:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.0,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T13:56:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.0,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T13:57:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.0,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T13:58:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.0,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T13:59:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.0,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T14:00:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.0,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T14:01:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.0,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T14:02:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.0,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T14:03:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.0,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T14:04:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.0,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T14:05:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.0,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T14:06:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.0,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T14:07:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.0,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T14:08:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.0,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T14:09:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.0,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T14:10:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.0,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T14:11:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.0,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T14:12:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.0,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T14:13:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.0,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T14:14:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.0,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T14:15:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.0,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T14:16:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.0,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T14:17:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.0,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T14:18:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.0,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T14:19:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.0,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T14:20:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.0,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T14:21:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.0,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T14:22:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.0,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T14:23:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.0,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T14:24:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.0,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T14:25:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.0,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T14:26:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.0,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T14:27:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.0,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T14:28:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.0,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T14:29:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.0,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T14:30:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.0,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T14:31:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.0,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T14:32:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.0,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T14:33:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.0,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T14:34:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.0,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T14:35:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.0,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T14:36:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.0,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T14:37:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.0,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T14:38:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.0,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T14:39:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.0,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T14:40:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.0,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T14:41:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.0,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T14:42:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.0,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T14:43:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.00125835,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T14:44:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.0050334055555556,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T14:45:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.0088084611111111,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T14:46:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.011954322222222,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T14:47:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.015729377777778,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T14:48:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.018875238888889,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T14:49:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.023908627777778,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T14:50:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.026425325,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T14:51:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.029571186111111,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T14:52:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.031458711111111,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T14:53:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.032717061111111,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T14:54:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.035862922222222,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T14:55:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.039008783333333,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T14:56:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.042783838888889,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T14:57:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.047188061111111,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T14:58:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.054738144444444,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T14:59:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.055996494444444,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T15:00:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.05977155,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T15:01:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.0610299,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T15:02:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.064175761111111,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T15:03:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.066063286111111,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T15:04:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.067950811111111,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T15:05:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.0729842,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T15:06:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.074871725,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T15:07:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.077388422222222,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T15:08:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.080534283333333,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T15:09:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.083680144444444,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T15:10:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.08619684166666701,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T15:11:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.089342702777778,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T15:12:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.09248856388888901,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T15:13:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.095634425,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T15:14:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.10129700833333,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T15:15:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.10444286944444,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T15:16:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.108217925,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T15:17:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.11073462222222,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T15:18:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.11450967777778,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T15:19:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.11954306666667,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T15:20:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.12520565,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T15:21:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.126464,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T15:22:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.13086822222222,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T15:23:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.13401408333333,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T15:24:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.13715994444444,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T15:25:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.14030580555556,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T15:26:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.14219333055556,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T15:27:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.14471002777778,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T15:28:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.14533920277778,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T15:29:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.1478559,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T15:30:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.15288928888889,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T15:31:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.15288928888889,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T15:32:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.15288928888889,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T15:33:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.15288928888889,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T15:34:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.15288928888889,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T15:35:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.15288928888889,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T15:36:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.15288928888889,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T15:37:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.15288928888889,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T15:38:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.15288928888889,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T15:39:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.15288928888889,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T15:40:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.15288928888889,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T15:41:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.16043937222222,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T15:42:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.16673112222222,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T15:43:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.16798946944444001,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T15:44:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.16987699722222,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T15:45:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.16751758333333,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T15:46:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.16751758333333,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T15:47:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.16657380555556,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T15:48:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.16704569444444,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T15:49:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.16563005555555999,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T15:50:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.16531546944444,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T15:51:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.16452901388889002,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T15:52:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.16610196111110997,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T15:53:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.16893325,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T15:54:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.16893325,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T15:55:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.16846138055556,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T15:56:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.16736031666667,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T15:57:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.16610195555556,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T15:58:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.16106856944444,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T15:59:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.16279880277778,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T16:00:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.16295608055556,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T16:01:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.16547278611111,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T16:02:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.16484362222222,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T16:03:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.16563008888889003,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T16:04:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.16720303611110998,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T16:05:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.16515823055556,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T16:06:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.16625928888889002,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T16:07:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.166731175,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T16:08:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.16783223055555999,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T16:09:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.16814684166667002,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T16:10:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.16909061666667002,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T16:11:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.16814686666667,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T16:12:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.16783228333332997,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T16:13:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.16798958888889,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T16:14:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.16625933888889002,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T16:15:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.165630175,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T16:16:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.16515828611111,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T16:17:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.16594475555556,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T16:18:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.16547286666667002,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T16:19:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.16279888333332998,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T16:20:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.159023825,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T16:21:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.16091133611111,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T16:22:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.15918110555556,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T16:23:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.15949571666667,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T16:24:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.15965302222222,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T16:25:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.15965302222222,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T16:26:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.16091135833332998,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T16:27:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.16169782777778,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T16:28:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.16311346944444,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T16:29:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.16279888333332998,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T16:30:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.16059677222222,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T16:31:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.16437182777778,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T16:32:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.16798957777778,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T16:33:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.17129274444444,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T16:34:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.17522507777778,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T16:35:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.17900013333332998,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T16:36:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.18308977222222,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T16:37:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.18592105,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T16:38:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.18906691111111,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T16:39:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.19378571666667002,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T16:40:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.19787535555556,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T16:41:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.19535866111111,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T16:42:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.19347113333333,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T16:43:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.19472949166667,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T16:44:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.19347113055556,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T16:45:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.19520135,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T16:46:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.19551596111111,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T16:47:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.19583054444444,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T16:48:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.19567326666667,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T16:49:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.19425762777778,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T16:50:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.19488679444444001,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T16:51:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.19756077777778,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T16:52:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.19630241666667,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T16:53:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.196617,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T16:54:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.196617,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T16:55:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.19771806388889002,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T16:56:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.19850454444444,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T16:57:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.19787538055556,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T16:58:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.19724620833332998,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T16:59:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.19771809722222,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T17:00:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.19661704166667002,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T17:01:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.19551597777778,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T17:02:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.19614514166667002,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T17:03:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.19677431666667,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T17:04:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.19677431666667,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T17:05:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.19740348333333,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T17:06:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.19740348333333,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T17:07:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.19818995555556,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T17:08:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.19771809444444,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T17:09:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.19740348333333,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T17:10:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.19771806666667002,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T17:11:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.19897642777778,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T17:12:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.19866184722222,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T17:13:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.19850454166667,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T17:14:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.19740348611111,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T17:15:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.19677431388889002,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T17:16:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.19645973055555999,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T17:17:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.19645973055555999,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T17:18:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.19598784166667002,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T17:19:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.19535866666667,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T17:20:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.19677430833332998,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T17:21:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.19693161388889002,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T17:22:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.19693161388889002,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T17:23:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.19708889166667,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T17:24:00+00:00",
+    "rig_id": "373049",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 1",
+    "value": 0.193785725,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T14:44:00+00:00",
+    "rig_id": "373050",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 2",
+    "value": 0.18875166666667,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T14:45:00+00:00",
+    "rig_id": "373050",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 2",
+    "value": 0.18875166666667,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T14:46:00+00:00",
+    "rig_id": "373050",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 2",
+    "value": 0.22650222222222,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T14:47:00+00:00",
+    "rig_id": "373050",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 2",
+    "value": 0.16987666666667,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T14:48:00+00:00",
+    "rig_id": "373050",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 2",
+    "value": 0.181202,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T14:49:00+00:00",
+    "rig_id": "373050",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 2",
+    "value": 0.15100166666667,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T14:50:00+00:00",
+    "rig_id": "373050",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 2",
+    "value": 0.14021585714285997,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T14:51:00+00:00",
+    "rig_id": "373050",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 2",
+    "value": 0.169877,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T14:52:00+00:00",
+    "rig_id": "373050",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 2",
+    "value": 0.19294677777778,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T14:53:00+00:00",
+    "rig_id": "373050",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 2",
+    "value": 0.1812022,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T14:54:00+00:00",
+    "rig_id": "373050",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 2",
+    "value": 0.19218412121212,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T14:55:00+00:00",
+    "rig_id": "373050",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 2",
+    "value": 0.19504405555556,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T14:56:00+00:00",
+    "rig_id": "373050",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 2",
+    "value": 0.18584843589744,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T14:57:00+00:00",
+    "rig_id": "373050",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 2",
+    "value": 0.17796647619048,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T14:58:00+00:00",
+    "rig_id": "373050",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 2",
+    "value": 0.18371893333332998,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T14:59:00+00:00",
+    "rig_id": "373050",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 2",
+    "value": 0.1934711875,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T15:00:00+00:00",
+    "rig_id": "373050",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 2",
+    "value": 0.19097299019608,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T15:01:00+00:00",
+    "rig_id": "373050",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 2",
+    "value": 0.19504412037037,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T15:02:00+00:00",
+    "rig_id": "373050",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 2",
+    "value": 0.19669986842105,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T15:03:00+00:00",
+    "rig_id": "373050",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 2",
+    "value": 0.19441496666667002,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T15:04:00+00:00",
+    "rig_id": "373050",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 2",
+    "value": 0.19055003968254,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T15:05:00+00:00",
+    "rig_id": "373050",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 2",
+    "value": 0.18875239393939003,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T15:06:00+00:00",
+    "rig_id": "373050",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 2",
+    "value": 0.18711106521739002,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T15:07:00+00:00",
+    "rig_id": "373050",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 2",
+    "value": 0.17931477083332997,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T15:08:00+00:00",
+    "rig_id": "373050",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 2",
+    "value": 0.17818225333333,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T15:09:00+00:00",
+    "rig_id": "373050",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 2",
+    "value": 0.18149267948717998,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T15:10:00+00:00",
+    "rig_id": "373050",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 2",
+    "value": 0.18315974074073998,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T15:11:00+00:00",
+    "rig_id": "373050",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 2",
+    "value": 0.17931478571429002,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T15:12:00+00:00",
+    "rig_id": "373050",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 2",
+    "value": 0.17833847701149,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T15:13:00+00:00",
+    "rig_id": "373050",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 2",
+    "value": 0.18120230555556,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T15:14:00+00:00",
+    "rig_id": "373050",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 2",
+    "value": 0.18388137096774,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T15:15:00+00:00",
+    "rig_id": "373050",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 2",
+    "value": 0.18521330729167002,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T15:16:00+00:00",
+    "rig_id": "373050",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 2",
+    "value": 0.19104032828283,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T15:17:00+00:00",
+    "rig_id": "373050",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 2",
+    "value": 0.1898627254902,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T15:18:00+00:00",
+    "rig_id": "373050",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 2",
+    "value": 0.1909096,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T15:19:00+00:00",
+    "rig_id": "373050",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 2",
+    "value": 0.19084965740741,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T15:20:00+00:00",
+    "rig_id": "373050",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 2",
+    "value": 0.18875240990991,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T15:21:00+00:00",
+    "rig_id": "373050",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 2",
+    "value": 0.18974585526316,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T15:22:00+00:00",
+    "rig_id": "373050",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 2",
+    "value": 0.18584853846154,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T15:23:00+00:00",
+    "rig_id": "373050",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 2",
+    "value": 0.18780865833333,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T15:24:00+00:00",
+    "rig_id": "373050",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 2",
+    "value": 0.18967316260163,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T15:25:00+00:00",
+    "rig_id": "373050",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 2",
+    "value": 0.19055007142857,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T15:26:00+00:00",
+    "rig_id": "373050",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 2",
+    "value": 0.19840952713178,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T15:27:00+00:00",
+    "rig_id": "373050",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 2",
+    "value": 0.19990597727273002,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T15:28:00+00:00",
+    "rig_id": "373050",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 2",
+    "value": 0.20049702962963,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T15:29:00+00:00",
+    "rig_id": "373050",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 2",
+    "value": 0.20188303623188,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T15:30:00+00:00",
+    "rig_id": "373050",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 2",
+    "value": 0.20160364539007,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T15:31:00+00:00",
+    "rig_id": "373050",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 2",
+    "value": 0.20133589583332998,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T15:32:00+00:00",
+    "rig_id": "373050",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 2",
+    "value": 0.197227,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T15:33:00+00:00",
+    "rig_id": "373050",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 2",
+    "value": 0.19630249666667002,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T15:34:00+00:00",
+    "rig_id": "373050",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 2",
+    "value": 0.20429672875817,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T15:35:00+00:00",
+    "rig_id": "373050",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 2",
+    "value": 0.20181988782051,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T15:36:00+00:00",
+    "rig_id": "373050",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 2",
+    "value": 0.20371014150942998,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T15:37:00+00:00",
+    "rig_id": "373050",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 2",
+    "value": 0.20587992283951,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T15:38:00+00:00",
+    "rig_id": "373050",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 2",
+    "value": 0.20694125757576,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T15:39:00+00:00",
+    "rig_id": "373050",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 2",
+    "value": 0.20695352678571,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T15:40:00+00:00",
+    "rig_id": "373050",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 2",
+    "value": 0.20431619590643,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T15:41:00+00:00",
+    "rig_id": "373050",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 2",
+    "value": 0.20079350287356,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T15:42:00+00:00",
+    "rig_id": "373050",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 2",
+    "value": 0.20122926271185998,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T15:43:00+00:00",
+    "rig_id": "373050",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 2",
+    "value": 0.20165049722222,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T15:44:00+00:00",
+    "rig_id": "373050",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 2",
+    "value": 0.20227969166667,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T15:45:00+00:00",
+    "rig_id": "373050",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 2",
+    "value": 0.20416721944444,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T15:46:00+00:00",
+    "rig_id": "373050",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 2",
+    "value": 0.20133594166667002,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T15:47:00+00:00",
+    "rig_id": "373050",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 2",
+    "value": 0.204324525,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T15:48:00+00:00",
+    "rig_id": "373050",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 2",
+    "value": 0.20338074722222,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T15:49:00+00:00",
+    "rig_id": "373050",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 2",
+    "value": 0.20652660833332998,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T15:50:00+00:00",
+    "rig_id": "373050",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 2",
+    "value": 0.20762766388889,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T15:51:00+00:00",
+    "rig_id": "373050",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 2",
+    "value": 0.20479638611110998,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T15:52:00+00:00",
+    "rig_id": "373050",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 2",
+    "value": 0.20039216111111,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T15:53:00+00:00",
+    "rig_id": "373050",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 2",
+    "value": 0.20275156111110998,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T15:54:00+00:00",
+    "rig_id": "373050",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 2",
+    "value": 0.20133592222222,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T15:55:00+00:00",
+    "rig_id": "373050",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 2",
+    "value": 0.20133592222222,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T15:56:00+00:00",
+    "rig_id": "373050",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 2",
+    "value": 0.20369532222222,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T15:57:00+00:00",
+    "rig_id": "373050",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 2",
+    "value": 0.20778494444444,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T15:58:00+00:00",
+    "rig_id": "373050",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 2",
+    "value": 0.20526824722222,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T15:59:00+00:00",
+    "rig_id": "373050",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 2",
+    "value": 0.20400988611110998,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T16:00:00+00:00",
+    "rig_id": "373050",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 2",
+    "value": 0.20338071388889,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T16:01:00+00:00",
+    "rig_id": "373050",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 2",
+    "value": 0.20306613055556,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T16:02:00+00:00",
+    "rig_id": "373050",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 2",
+    "value": 0.20400988055556,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T16:03:00+00:00",
+    "rig_id": "373050",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 2",
+    "value": 0.20400988055556,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T16:04:00+00:00",
+    "rig_id": "373050",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 2",
+    "value": 0.20589741111110998,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T16:05:00+00:00",
+    "rig_id": "373050",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 2",
+    "value": 0.20715576944444,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T16:06:00+00:00",
+    "rig_id": "373050",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 2",
+    "value": 0.20715576944444,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T16:07:00+00:00",
+    "rig_id": "373050",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 2",
+    "value": 0.21250374166667002,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T16:08:00+00:00",
+    "rig_id": "373050",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 2",
+    "value": 0.21281832222222,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T16:09:00+00:00",
+    "rig_id": "373050",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 2",
+    "value": 0.21093079722222,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T16:10:00+00:00",
+    "rig_id": "373050",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 2",
+    "value": 0.20998701944444,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T16:11:00+00:00",
+    "rig_id": "373050",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 2",
+    "value": 0.212503725,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T16:12:00+00:00",
+    "rig_id": "373050",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 2",
+    "value": 0.2134475,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T16:13:00+00:00",
+    "rig_id": "373050",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 2",
+    "value": 0.211559975,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T16:14:00+00:00",
+    "rig_id": "373050",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 2",
+    "value": 0.20935786388889002,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T16:15:00+00:00",
+    "rig_id": "373050",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 2",
+    "value": 0.207627625,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T16:16:00+00:00",
+    "rig_id": "373050",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 2",
+    "value": 0.20385257222222,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T16:17:00+00:00",
+    "rig_id": "373050",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 2",
+    "value": 0.204953625,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T16:18:00+00:00",
+    "rig_id": "373050",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 2",
+    "value": 0.20322338611111,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T16:19:00+00:00",
+    "rig_id": "373050",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 2",
+    "value": 0.20448174722222,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T16:20:00+00:00",
+    "rig_id": "373050",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 2",
+    "value": 0.20589738888889,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T16:21:00+00:00",
+    "rig_id": "373050",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 2",
+    "value": 0.20495361111111,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T16:22:00+00:00",
+    "rig_id": "373050",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 2",
+    "value": 0.20747029722222,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T16:23:00+00:00",
+    "rig_id": "373050",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 2",
+    "value": 0.20526818611110997,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T16:24:00+00:00",
+    "rig_id": "373050",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 2",
+    "value": 0.204009825,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T16:25:00+00:00",
+    "rig_id": "373050",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 2",
+    "value": 0.20165041111110998,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T16:26:00+00:00",
+    "rig_id": "373050",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 2",
+    "value": 0.19614513333332997,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T16:27:00+00:00",
+    "rig_id": "373050",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 2",
+    "value": 0.19457218888889002,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T16:28:00+00:00",
+    "rig_id": "373050",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 2",
+    "value": 0.19488677222222,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T16:29:00+00:00",
+    "rig_id": "373050",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 2",
+    "value": 0.19394302222222,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T16:30:00+00:00",
+    "rig_id": "373050",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 2",
+    "value": 0.19394302222222,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T16:31:00+00:00",
+    "rig_id": "373050",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 2",
+    "value": 0.19331385833332998,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T16:32:00+00:00",
+    "rig_id": "373050",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 2",
+    "value": 0.19708891388889002,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T16:33:00+00:00",
+    "rig_id": "373050",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 2",
+    "value": 0.19866185555555999,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T16:34:00+00:00",
+    "rig_id": "373050",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 2",
+    "value": 0.19174091111111,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T16:35:00+00:00",
+    "rig_id": "373050",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 2",
+    "value": 0.1945722,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T16:36:00+00:00",
+    "rig_id": "373050",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 2",
+    "value": 0.19237008888889,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T16:37:00+00:00",
+    "rig_id": "373050",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 2",
+    "value": 0.19048258888889003,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T16:38:00+00:00",
+    "rig_id": "373050",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 2",
+    "value": 0.19016800555556,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T16:39:00+00:00",
+    "rig_id": "373050",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 2",
+    "value": 0.18953881111110998,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T16:40:00+00:00",
+    "rig_id": "373050",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 2",
+    "value": 0.190482575,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T16:41:00+00:00",
+    "rig_id": "373050",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 2",
+    "value": 0.19221280555556,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T16:42:00+00:00",
+    "rig_id": "373050",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 2",
+    "value": 0.19158361111111,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T16:43:00+00:00",
+    "rig_id": "373050",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 2",
+    "value": 0.19032525277778,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T16:44:00+00:00",
+    "rig_id": "373050",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 2",
+    "value": 0.19126900277778,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T16:45:00+00:00",
+    "rig_id": "373050",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 2",
+    "value": 0.18875231111111,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T16:46:00+00:00",
+    "rig_id": "373050",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 2",
+    "value": 0.19174089444444,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T16:47:00+00:00",
+    "rig_id": "373050",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 2",
+    "value": 0.19315653333333,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T16:48:00+00:00",
+    "rig_id": "373050",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 2",
+    "value": 0.19347111666667002,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T16:49:00+00:00",
+    "rig_id": "373050",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 2",
+    "value": 0.19315653333333,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T16:50:00+00:00",
+    "rig_id": "373050",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 2",
+    "value": 0.19394298888889003,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T16:51:00+00:00",
+    "rig_id": "373050",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 2",
+    "value": 0.19425757222222,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T16:52:00+00:00",
+    "rig_id": "373050",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 2",
+    "value": 0.19645968611110998,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T16:53:00+00:00",
+    "rig_id": "373050",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 2",
+    "value": 0.19661699166667002,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T16:54:00+00:00",
+    "rig_id": "373050",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 2",
+    "value": 0.19551593888889002,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T16:55:00+00:00",
+    "rig_id": "373050",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 2",
+    "value": 0.19488674444444,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T16:56:00+00:00",
+    "rig_id": "373050",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 2",
+    "value": 0.19347110555556,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T16:57:00+00:00",
+    "rig_id": "373050",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 2",
+    "value": 0.19095441111110997,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T16:58:00+00:00",
+    "rig_id": "373050",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 2",
+    "value": 0.19205546944444,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T16:59:00+00:00",
+    "rig_id": "373050",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 2",
+    "value": 0.19001065277778,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T17:00:00+00:00",
+    "rig_id": "373050",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 2",
+    "value": 0.19048253333332998,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T17:01:00+00:00",
+    "rig_id": "373050",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 2",
+    "value": 0.18953875555556,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T17:02:00+00:00",
+    "rig_id": "373050",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 2",
+    "value": 0.18890958888889,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T17:03:00+00:00",
+    "rig_id": "373050",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 2",
+    "value": 0.18875229722222,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T17:04:00+00:00",
+    "rig_id": "373050",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 2",
+    "value": 0.18906688055556,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T17:05:00+00:00",
+    "rig_id": "373050",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 2",
+    "value": 0.18938146388889002,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T17:06:00+00:00",
+    "rig_id": "373050",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 2",
+    "value": 0.19001062777778,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T17:07:00+00:00",
+    "rig_id": "373050",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 2",
+    "value": 0.18875229444444,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T17:08:00+00:00",
+    "rig_id": "373050",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 2",
+    "value": 0.18717936666667,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T17:09:00+00:00",
+    "rig_id": "373050",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 2",
+    "value": 0.18623560555555999,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T17:10:00+00:00",
+    "rig_id": "373050",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 2",
+    "value": 0.18796585555556,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T17:11:00+00:00",
+    "rig_id": "373050",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 2",
+    "value": 0.18702207777778,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T17:12:00+00:00",
+    "rig_id": "373050",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 2",
+    "value": 0.18717935555556,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T17:13:00+00:00",
+    "rig_id": "373050",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 2",
+    "value": 0.187965825,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T17:14:00+00:00",
+    "rig_id": "373050",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 2",
+    "value": 0.188909575,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T17:15:00+00:00",
+    "rig_id": "373050",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 2",
+    "value": 0.19001061944444,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T17:16:00+00:00",
+    "rig_id": "373050",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 2",
+    "value": 0.1903252,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T17:17:00+00:00",
+    "rig_id": "373050",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 2",
+    "value": 0.18953872777778,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T17:18:00+00:00",
+    "rig_id": "373050",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 2",
+    "value": 0.18953872777778,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T17:19:00+00:00",
+    "rig_id": "373050",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 2",
+    "value": 0.18780849722222,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T17:20:00+00:00",
+    "rig_id": "373050",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 2",
+    "value": 0.18828038611110998,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T17:21:00+00:00",
+    "rig_id": "373050",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 2",
+    "value": 0.18890958055556,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T17:22:00+00:00",
+    "rig_id": "373050",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 2",
+    "value": 0.19016794166667,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T17:23:00+00:00",
+    "rig_id": "373050",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 2",
+    "value": 0.19079710833333,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T17:24:00+00:00",
+    "rig_id": "373050",
+    "rig": "\ud83d\ude80 IceRiver KS0 Pro \u2013 Reliable Kaspa Hashpower | Fast Connect | 99% Uptime  Rental 2",
+    "value": 0.18765124722222,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T16:41:00+00:00",
+    "rig_id": "373074",
+    "rig": "IceRiver KS0 Ultra \u2013 400 GH/s Kaspa (KHeavyHash) | Low latency US rig | Stable 24/7 uptime #1",
+    "value": 0.22650333333332998,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T16:42:00+00:00",
+    "rig_id": "373074",
+    "rig": "IceRiver KS0 Ultra \u2013 400 GH/s Kaspa (KHeavyHash) | Low latency US rig | Stable 24/7 uptime #1",
+    "value": 0.18875258333332998,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T16:43:00+00:00",
+    "rig_id": "373074",
+    "rig": "IceRiver KS0 Ultra \u2013 400 GH/s Kaspa (KHeavyHash) | Low latency US rig | Stable 24/7 uptime #1",
+    "value": 0.26425338888889,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T16:44:00+00:00",
+    "rig_id": "373074",
+    "rig": "IceRiver KS0 Ultra \u2013 400 GH/s Kaspa (KHeavyHash) | Low latency US rig | Stable 24/7 uptime #1",
+    "value": 0.31144129166667,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T16:45:00+00:00",
+    "rig_id": "373074",
+    "rig": "IceRiver KS0 Ultra \u2013 400 GH/s Kaspa (KHeavyHash) | Low latency US rig | Stable 24/7 uptime #1",
+    "value": 0.32465403333333004,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T16:46:00+00:00",
+    "rig_id": "373074",
+    "rig": "IceRiver KS0 Ultra \u2013 400 GH/s Kaspa (KHeavyHash) | Low latency US rig | Stable 24/7 uptime #1",
+    "value": 0.32717086111111,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T16:47:00+00:00",
+    "rig_id": "373074",
+    "rig": "IceRiver KS0 Ultra \u2013 400 GH/s Kaspa (KHeavyHash) | Low latency US rig | Stable 24/7 uptime #1",
+    "value": 0.3235755,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T16:48:00+00:00",
+    "rig_id": "373074",
+    "rig": "IceRiver KS0 Ultra \u2013 400 GH/s Kaspa (KHeavyHash) | Low latency US rig | Stable 24/7 uptime #1",
+    "value": 0.31380085416667,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T16:49:00+00:00",
+    "rig_id": "373074",
+    "rig": "IceRiver KS0 Ultra \u2013 400 GH/s Kaspa (KHeavyHash) | Low latency US rig | Stable 24/7 uptime #1",
+    "value": 0.27893409259259,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T16:50:00+00:00",
+    "rig_id": "373074",
+    "rig": "IceRiver KS0 Ultra \u2013 400 GH/s Kaspa (KHeavyHash) | Low latency US rig | Stable 24/7 uptime #1",
+    "value": 0.25104068333332996,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T16:51:00+00:00",
+    "rig_id": "373074",
+    "rig": "IceRiver KS0 Ultra \u2013 400 GH/s Kaspa (KHeavyHash) | Low latency US rig | Stable 24/7 uptime #1",
+    "value": 0.22821880303029998,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T16:52:00+00:00",
+    "rig_id": "373074",
+    "rig": "IceRiver KS0 Ultra \u2013 400 GH/s Kaspa (KHeavyHash) | Low latency US rig | Stable 24/7 uptime #1",
+    "value": 0.20920056944444002,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T16:53:00+00:00",
+    "rig_id": "373074",
+    "rig": "IceRiver KS0 Ultra \u2013 400 GH/s Kaspa (KHeavyHash) | Low latency US rig | Stable 24/7 uptime #1",
+    "value": 0.19310821794872,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T16:54:00+00:00",
+    "rig_id": "373074",
+    "rig": "IceRiver KS0 Ultra \u2013 400 GH/s Kaspa (KHeavyHash) | Low latency US rig | Stable 24/7 uptime #1",
+    "value": 0.20088644047619,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T16:55:00+00:00",
+    "rig_id": "373074",
+    "rig": "IceRiver KS0 Ultra \u2013 400 GH/s Kaspa (KHeavyHash) | Low latency US rig | Stable 24/7 uptime #1",
+    "value": 0.1975608,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T16:56:00+00:00",
+    "rig_id": "373074",
+    "rig": "IceRiver KS0 Ultra \u2013 400 GH/s Kaspa (KHeavyHash) | Low latency US rig | Stable 24/7 uptime #1",
+    "value": 0.20172908333332998,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T16:57:00+00:00",
+    "rig_id": "373074",
+    "rig": "IceRiver KS0 Ultra \u2013 400 GH/s Kaspa (KHeavyHash) | Low latency US rig | Stable 24/7 uptime #1",
+    "value": 0.20984825490196,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T16:58:00+00:00",
+    "rig_id": "373074",
+    "rig": "IceRiver KS0 Ultra \u2013 400 GH/s Kaspa (KHeavyHash) | Low latency US rig | Stable 24/7 uptime #1",
+    "value": 0.21811390740741,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T16:59:00+00:00",
+    "rig_id": "373074",
+    "rig": "IceRiver KS0 Ultra \u2013 400 GH/s Kaspa (KHeavyHash) | Low latency US rig | Stable 24/7 uptime #1",
+    "value": 0.22848975438596,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T17:00:00+00:00",
+    "rig_id": "373074",
+    "rig": "IceRiver KS0 Ultra \u2013 400 GH/s Kaspa (KHeavyHash) | Low latency US rig | Stable 24/7 uptime #1",
+    "value": 0.2255591,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T17:01:00+00:00",
+    "rig_id": "373074",
+    "rig": "IceRiver KS0 Ultra \u2013 400 GH/s Kaspa (KHeavyHash) | Low latency US rig | Stable 24/7 uptime #1",
+    "value": 0.23998517460317,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T17:02:00+00:00",
+    "rig_id": "373074",
+    "rig": "IceRiver KS0 Ultra \u2013 400 GH/s Kaspa (KHeavyHash) | Low latency US rig | Stable 24/7 uptime #1",
+    "value": 0.24709403030303,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T17:03:00+00:00",
+    "rig_id": "373074",
+    "rig": "IceRiver KS0 Ultra \u2013 400 GH/s Kaspa (KHeavyHash) | Low latency US rig | Stable 24/7 uptime #1",
+    "value": 0.25604668115942003,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T17:04:00+00:00",
+    "rig_id": "373074",
+    "rig": "IceRiver KS0 Ultra \u2013 400 GH/s Kaspa (KHeavyHash) | Low latency US rig | Stable 24/7 uptime #1",
+    "value": 0.25717508333333,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T17:05:00+00:00",
+    "rig_id": "373074",
+    "rig": "IceRiver KS0 Ultra \u2013 400 GH/s Kaspa (KHeavyHash) | Low latency US rig | Stable 24/7 uptime #1",
+    "value": 0.26123328,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T17:06:00+00:00",
+    "rig_id": "373074",
+    "rig": "IceRiver KS0 Ultra \u2013 400 GH/s Kaspa (KHeavyHash) | Low latency US rig | Stable 24/7 uptime #1",
+    "value": 0.26933514102564,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T17:07:00+00:00",
+    "rig_id": "373074",
+    "rig": "IceRiver KS0 Ultra \u2013 400 GH/s Kaspa (KHeavyHash) | Low latency US rig | Stable 24/7 uptime #1",
+    "value": 0.27473958024691003,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T17:08:00+00:00",
+    "rig_id": "373074",
+    "rig": "IceRiver KS0 Ultra \u2013 400 GH/s Kaspa (KHeavyHash) | Low latency US rig | Stable 24/7 uptime #1",
+    "value": 0.28582501190476,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T17:09:00+00:00",
+    "rig_id": "373074",
+    "rig": "IceRiver KS0 Ultra \u2013 400 GH/s Kaspa (KHeavyHash) | Low latency US rig | Stable 24/7 uptime #1",
+    "value": 0.29158983908046004,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T17:10:00+00:00",
+    "rig_id": "373074",
+    "rig": "IceRiver KS0 Ultra \u2013 400 GH/s Kaspa (KHeavyHash) | Low latency US rig | Stable 24/7 uptime #1",
+    "value": 0.30326212222222,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T17:11:00+00:00",
+    "rig_id": "373074",
+    "rig": "IceRiver KS0 Ultra \u2013 400 GH/s Kaspa (KHeavyHash) | Low latency US rig | Stable 24/7 uptime #1",
+    "value": 0.31539909677419,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T17:12:00+00:00",
+    "rig_id": "373074",
+    "rig": "IceRiver KS0 Ultra \u2013 400 GH/s Kaspa (KHeavyHash) | Low latency US rig | Stable 24/7 uptime #1",
+    "value": 0.31733990625,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T17:13:00+00:00",
+    "rig_id": "373074",
+    "rig": "IceRiver KS0 Ultra \u2013 400 GH/s Kaspa (KHeavyHash) | Low latency US rig | Stable 24/7 uptime #1",
+    "value": 0.32145096969696996,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T17:14:00+00:00",
+    "rig_id": "373074",
+    "rig": "IceRiver KS0 Ultra \u2013 400 GH/s Kaspa (KHeavyHash) | Low latency US rig | Stable 24/7 uptime #1",
+    "value": 0.32754084313725,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T17:15:00+00:00",
+    "rig_id": "373074",
+    "rig": "IceRiver KS0 Ultra \u2013 400 GH/s Kaspa (KHeavyHash) | Low latency US rig | Stable 24/7 uptime #1",
+    "value": 0.33112553333333,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T17:16:00+00:00",
+    "rig_id": "373074",
+    "rig": "IceRiver KS0 Ultra \u2013 400 GH/s Kaspa (KHeavyHash) | Low latency US rig | Stable 24/7 uptime #1",
+    "value": 0.33346246296296,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T17:17:00+00:00",
+    "rig_id": "373074",
+    "rig": "IceRiver KS0 Ultra \u2013 400 GH/s Kaspa (KHeavyHash) | Low latency US rig | Stable 24/7 uptime #1",
+    "value": 0.34077451351351,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T17:18:00+00:00",
+    "rig_id": "373074",
+    "rig": "IceRiver KS0 Ultra \u2013 400 GH/s Kaspa (KHeavyHash) | Low latency US rig | Stable 24/7 uptime #1",
+    "value": 0.3447214122807,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T17:19:00+00:00",
+    "rig_id": "373074",
+    "rig": "IceRiver KS0 Ultra \u2013 400 GH/s Kaspa (KHeavyHash) | Low latency US rig | Stable 24/7 uptime #1",
+    "value": 0.34943385470085,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T17:20:00+00:00",
+    "rig_id": "373074",
+    "rig": "IceRiver KS0 Ultra \u2013 400 GH/s Kaspa (KHeavyHash) | Low latency US rig | Stable 24/7 uptime #1",
+    "value": 0.34447305416666996,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T17:21:00+00:00",
+    "rig_id": "373074",
+    "rig": "IceRiver KS0 Ultra \u2013 400 GH/s Kaspa (KHeavyHash) | Low latency US rig | Stable 24/7 uptime #1",
+    "value": 0.34343720731707,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T17:22:00+00:00",
+    "rig_id": "373074",
+    "rig": "IceRiver KS0 Ultra \u2013 400 GH/s Kaspa (KHeavyHash) | Low latency US rig | Stable 24/7 uptime #1",
+    "value": 0.34604596428571,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T17:23:00+00:00",
+    "rig_id": "373074",
+    "rig": "IceRiver KS0 Ultra \u2013 400 GH/s Kaspa (KHeavyHash) | Low latency US rig | Stable 24/7 uptime #1",
+    "value": 0.34853338372093,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T17:24:00+00:00",
+    "rig_id": "373074",
+    "rig": "IceRiver KS0 Ultra \u2013 400 GH/s Kaspa (KHeavyHash) | Low latency US rig | Stable 24/7 uptime #1",
+    "value": 0.34232810227273,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T16:42:00+00:00",
+    "rig_id": "373075",
+    "rig": "IceRiver KS0 Ultra \u2013 400 GH/s Kaspa (KHeavyHash) | Low latency US rig | Stable 24/7 uptime #2",
+    "value": 0.30200333333333,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T16:43:00+00:00",
+    "rig_id": "373075",
+    "rig": "IceRiver KS0 Ultra \u2013 400 GH/s Kaspa (KHeavyHash) | Low latency US rig | Stable 24/7 uptime #2",
+    "value": 0.33975416666666997,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T16:44:00+00:00",
+    "rig_id": "373075",
+    "rig": "IceRiver KS0 Ultra \u2013 400 GH/s Kaspa (KHeavyHash) | Low latency US rig | Stable 24/7 uptime #2",
+    "value": 0.31458722222221996,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T16:45:00+00:00",
+    "rig_id": "373075",
+    "rig": "IceRiver KS0 Ultra \u2013 400 GH/s Kaspa (KHeavyHash) | Low latency US rig | Stable 24/7 uptime #2",
+    "value": 0.31144125,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T16:46:00+00:00",
+    "rig_id": "373075",
+    "rig": "IceRiver KS0 Ultra \u2013 400 GH/s Kaspa (KHeavyHash) | Low latency US rig | Stable 24/7 uptime #2",
+    "value": 0.339754,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T16:47:00+00:00",
+    "rig_id": "373075",
+    "rig": "IceRiver KS0 Ultra \u2013 400 GH/s Kaspa (KHeavyHash) | Low latency US rig | Stable 24/7 uptime #2",
+    "value": 0.35548333333333004,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T16:48:00+00:00",
+    "rig_id": "373075",
+    "rig": "IceRiver KS0 Ultra \u2013 400 GH/s Kaspa (KHeavyHash) | Low latency US rig | Stable 24/7 uptime #2",
+    "value": 0.40177261904762,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T16:49:00+00:00",
+    "rig_id": "373075",
+    "rig": "IceRiver KS0 Ultra \u2013 400 GH/s Kaspa (KHeavyHash) | Low latency US rig | Stable 24/7 uptime #2",
+    "value": 0.412895625,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T16:50:00+00:00",
+    "rig_id": "373075",
+    "rig": "IceRiver KS0 Ultra \u2013 400 GH/s Kaspa (KHeavyHash) | Low latency US rig | Stable 24/7 uptime #2",
+    "value": 0.41315777777778,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T16:51:00+00:00",
+    "rig_id": "373075",
+    "rig": "IceRiver KS0 Ultra \u2013 400 GH/s Kaspa (KHeavyHash) | Low latency US rig | Stable 24/7 uptime #2",
+    "value": 0.40204233333333,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T16:52:00+00:00",
+    "rig_id": "373075",
+    "rig": "IceRiver KS0 Ultra \u2013 400 GH/s Kaspa (KHeavyHash) | Low latency US rig | Stable 24/7 uptime #2",
+    "value": 0.38265227272727004,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T16:53:00+00:00",
+    "rig_id": "373075",
+    "rig": "IceRiver KS0 Ultra \u2013 400 GH/s Kaspa (KHeavyHash) | Low latency US rig | Stable 24/7 uptime #2",
+    "value": 0.35076458333333,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T16:54:00+00:00",
+    "rig_id": "373075",
+    "rig": "IceRiver KS0 Ultra \u2013 400 GH/s Kaspa (KHeavyHash) | Low latency US rig | Stable 24/7 uptime #2",
+    "value": 0.32378269230769,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T16:55:00+00:00",
+    "rig_id": "373075",
+    "rig": "IceRiver KS0 Ultra \u2013 400 GH/s Kaspa (KHeavyHash) | Low latency US rig | Stable 24/7 uptime #2",
+    "value": 0.30065535714285996,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T16:56:00+00:00",
+    "rig_id": "373075",
+    "rig": "IceRiver KS0 Ultra \u2013 400 GH/s Kaspa (KHeavyHash) | Low latency US rig | Stable 24/7 uptime #2",
+    "value": 0.28061166666667,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T16:57:00+00:00",
+    "rig_id": "373075",
+    "rig": "IceRiver KS0 Ultra \u2013 400 GH/s Kaspa (KHeavyHash) | Low latency US rig | Stable 24/7 uptime #2",
+    "value": 0.2630734375,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T16:58:00+00:00",
+    "rig_id": "373075",
+    "rig": "IceRiver KS0 Ultra \u2013 400 GH/s Kaspa (KHeavyHash) | Low latency US rig | Stable 24/7 uptime #2",
+    "value": 0.24759852941176,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T16:59:00+00:00",
+    "rig_id": "373075",
+    "rig": "IceRiver KS0 Ultra \u2013 400 GH/s Kaspa (KHeavyHash) | Low latency US rig | Stable 24/7 uptime #2",
+    "value": 0.23384305555556,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T17:00:00+00:00",
+    "rig_id": "373075",
+    "rig": "IceRiver KS0 Ultra \u2013 400 GH/s Kaspa (KHeavyHash) | Low latency US rig | Stable 24/7 uptime #2",
+    "value": 0.25729912280702,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T17:01:00+00:00",
+    "rig_id": "373075",
+    "rig": "IceRiver KS0 Ultra \u2013 400 GH/s Kaspa (KHeavyHash) | Low latency US rig | Stable 24/7 uptime #2",
+    "value": 0.2708595,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T17:02:00+00:00",
+    "rig_id": "373075",
+    "rig": "IceRiver KS0 Ultra \u2013 400 GH/s Kaspa (KHeavyHash) | Low latency US rig | Stable 24/7 uptime #2",
+    "value": 0.2687473015873,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T17:03:00+00:00",
+    "rig_id": "373075",
+    "rig": "IceRiver KS0 Ultra \u2013 400 GH/s Kaspa (KHeavyHash) | Low latency US rig | Stable 24/7 uptime #2",
+    "value": 0.28398643939394,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T17:04:00+00:00",
+    "rig_id": "373075",
+    "rig": "IceRiver KS0 Ultra \u2013 400 GH/s Kaspa (KHeavyHash) | Low latency US rig | Stable 24/7 uptime #2",
+    "value": 0.28805246376812,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T17:05:00+00:00",
+    "rig_id": "373075",
+    "rig": "IceRiver KS0 Ultra \u2013 400 GH/s Kaspa (KHeavyHash) | Low latency US rig | Stable 24/7 uptime #2",
+    "value": 0.29177965277778,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T17:06:00+00:00",
+    "rig_id": "373075",
+    "rig": "IceRiver KS0 Ultra \u2013 400 GH/s Kaspa (KHeavyHash) | Low latency US rig | Stable 24/7 uptime #2",
+    "value": 0.29369866666667,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T17:07:00+00:00",
+    "rig_id": "373075",
+    "rig": "IceRiver KS0 Ultra \u2013 400 GH/s Kaspa (KHeavyHash) | Low latency US rig | Stable 24/7 uptime #2",
+    "value": 0.29982583333333,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T17:08:00+00:00",
+    "rig_id": "373075",
+    "rig": "IceRiver KS0 Ultra \u2013 400 GH/s Kaspa (KHeavyHash) | Low latency US rig | Stable 24/7 uptime #2",
+    "value": 0.30549913580246996,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T17:09:00+00:00",
+    "rig_id": "373075",
+    "rig": "IceRiver KS0 Ultra \u2013 400 GH/s Kaspa (KHeavyHash) | Low latency US rig | Stable 24/7 uptime #2",
+    "value": 0.31211547619047997,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T17:10:00+00:00",
+    "rig_id": "373075",
+    "rig": "IceRiver KS0 Ultra \u2013 400 GH/s Kaspa (KHeavyHash) | Low latency US rig | Stable 24/7 uptime #2",
+    "value": 0.31697373563218,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T17:11:00+00:00",
+    "rig_id": "373075",
+    "rig": "IceRiver KS0 Ultra \u2013 400 GH/s Kaspa (KHeavyHash) | Low latency US rig | Stable 24/7 uptime #2",
+    "value": 0.31018299444444003,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T17:12:00+00:00",
+    "rig_id": "373075",
+    "rig": "IceRiver KS0 Ultra \u2013 400 GH/s Kaspa (KHeavyHash) | Low latency US rig | Stable 24/7 uptime #2",
+    "value": 0.30991913440859997,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T17:13:00+00:00",
+    "rig_id": "373075",
+    "rig": "IceRiver KS0 Ultra \u2013 400 GH/s Kaspa (KHeavyHash) | Low latency US rig | Stable 24/7 uptime #2",
+    "value": 0.308492078125,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T17:14:00+00:00",
+    "rig_id": "373075",
+    "rig": "IceRiver KS0 Ultra \u2013 400 GH/s Kaspa (KHeavyHash) | Low latency US rig | Stable 24/7 uptime #2",
+    "value": 0.31687509595959995,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T17:15:00+00:00",
+    "rig_id": "373075",
+    "rig": "IceRiver KS0 Ultra \u2013 400 GH/s Kaspa (KHeavyHash) | Low latency US rig | Stable 24/7 uptime #2",
+    "value": 0.3192134754902,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T17:16:00+00:00",
+    "rig_id": "373075",
+    "rig": "IceRiver KS0 Ultra \u2013 400 GH/s Kaspa (KHeavyHash) | Low latency US rig | Stable 24/7 uptime #2",
+    "value": 0.32087894761905,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T17:17:00+00:00",
+    "rig_id": "373075",
+    "rig": "IceRiver KS0 Ultra \u2013 400 GH/s Kaspa (KHeavyHash) | Low latency US rig | Stable 24/7 uptime #2",
+    "value": 0.32769499537037,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T17:18:00+00:00",
+    "rig_id": "373075",
+    "rig": "IceRiver KS0 Ultra \u2013 400 GH/s Kaspa (KHeavyHash) | Low latency US rig | Stable 24/7 uptime #2",
+    "value": 0.32802094144144,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T17:19:00+00:00",
+    "rig_id": "373075",
+    "rig": "IceRiver KS0 Ultra \u2013 400 GH/s Kaspa (KHeavyHash) | Low latency US rig | Stable 24/7 uptime #2",
+    "value": 0.32634284649122997,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T17:20:00+00:00",
+    "rig_id": "373075",
+    "rig": "IceRiver KS0 Ultra \u2013 400 GH/s Kaspa (KHeavyHash) | Low latency US rig | Stable 24/7 uptime #2",
+    "value": 0.33249448290598,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T17:21:00+00:00",
+    "rig_id": "373075",
+    "rig": "IceRiver KS0 Ultra \u2013 400 GH/s Kaspa (KHeavyHash) | Low latency US rig | Stable 24/7 uptime #2",
+    "value": 0.33173220416667,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T17:22:00+00:00",
+    "rig_id": "373075",
+    "rig": "IceRiver KS0 Ultra \u2013 400 GH/s Kaspa (KHeavyHash) | Low latency US rig | Stable 24/7 uptime #2",
+    "value": 0.33284861382114,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T17:23:00+00:00",
+    "rig_id": "373075",
+    "rig": "IceRiver KS0 Ultra \u2013 400 GH/s Kaspa (KHeavyHash) | Low latency US rig | Stable 24/7 uptime #2",
+    "value": 0.3330130515873,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T17:24:00+00:00",
+    "rig_id": "373075",
+    "rig": "IceRiver KS0 Ultra \u2013 400 GH/s Kaspa (KHeavyHash) | Low latency US rig | Stable 24/7 uptime #2",
+    "value": 0.3252685620155,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T17:00:00+00:00",
+    "rig_id": "373077",
+    "rig": "IceRiver KS0 Ultra \u2013 400 GH/s Kaspa (KHeavyHash) | Low latency US rig | Stable 24/7 uptime #3",
+    "value": 0.6040083333333299,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T17:01:00+00:00",
+    "rig_id": "373077",
+    "rig": "IceRiver KS0 Ultra \u2013 400 GH/s Kaspa (KHeavyHash) | Low latency US rig | Stable 24/7 uptime #3",
+    "value": 0.45300583333333,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T17:02:00+00:00",
+    "rig_id": "373077",
+    "rig": "IceRiver KS0 Ultra \u2013 400 GH/s Kaspa (KHeavyHash) | Low latency US rig | Stable 24/7 uptime #3",
+    "value": 0.35233783333333,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T17:03:00+00:00",
+    "rig_id": "373077",
+    "rig": "IceRiver KS0 Ultra \u2013 400 GH/s Kaspa (KHeavyHash) | Low latency US rig | Stable 24/7 uptime #3",
+    "value": 0.38694254166666997,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T17:04:00+00:00",
+    "rig_id": "373077",
+    "rig": "IceRiver KS0 Ultra \u2013 400 GH/s Kaspa (KHeavyHash) | Low latency US rig | Stable 24/7 uptime #3",
+    "value": 0.3624047,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T17:05:00+00:00",
+    "rig_id": "373077",
+    "rig": "IceRiver KS0 Ultra \u2013 400 GH/s Kaspa (KHeavyHash) | Low latency US rig | Stable 24/7 uptime #3",
+    "value": 0.36492141666667,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T17:06:00+00:00",
+    "rig_id": "373077",
+    "rig": "IceRiver KS0 Ultra \u2013 400 GH/s Kaspa (KHeavyHash) | Low latency US rig | Stable 24/7 uptime #3",
+    "value": 0.40446954761904996,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T17:07:00+00:00",
+    "rig_id": "373077",
+    "rig": "IceRiver KS0 Ultra \u2013 400 GH/s Kaspa (KHeavyHash) | Low latency US rig | Stable 24/7 uptime #3",
+    "value": 0.4199741875,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T17:08:00+00:00",
+    "rig_id": "373077",
+    "rig": "IceRiver KS0 Ultra \u2013 400 GH/s Kaspa (KHeavyHash) | Low latency US rig | Stable 24/7 uptime #3",
+    "value": 0.41525538888889,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T17:09:00+00:00",
+    "rig_id": "373077",
+    "rig": "IceRiver KS0 Ultra \u2013 400 GH/s Kaspa (KHeavyHash) | Low latency US rig | Stable 24/7 uptime #3",
+    "value": 0.42658051666666996,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T17:10:00+00:00",
+    "rig_id": "373077",
+    "rig": "IceRiver KS0 Ultra \u2013 400 GH/s Kaspa (KHeavyHash) | Low latency US rig | Stable 24/7 uptime #3",
+    "value": 0.42211910606061,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T17:11:00+00:00",
+    "rig_id": "373077",
+    "rig": "IceRiver KS0 Ultra \u2013 400 GH/s Kaspa (KHeavyHash) | Low latency US rig | Stable 24/7 uptime #3",
+    "value": 0.43727654166666996,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T17:12:00+00:00",
+    "rig_id": "373077",
+    "rig": "IceRiver KS0 Ultra \u2013 400 GH/s Kaspa (KHeavyHash) | Low latency US rig | Stable 24/7 uptime #3",
+    "value": 0.43267873076922997,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T17:13:00+00:00",
+    "rig_id": "373077",
+    "rig": "IceRiver KS0 Ultra \u2013 400 GH/s Kaspa (KHeavyHash) | Low latency US rig | Stable 24/7 uptime #3",
+    "value": 0.43952358333333,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T17:14:00+00:00",
+    "rig_id": "373077",
+    "rig": "IceRiver KS0 Ultra \u2013 400 GH/s Kaspa (KHeavyHash) | Low latency US rig | Stable 24/7 uptime #3",
+    "value": 0.44545578888889004,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T17:15:00+00:00",
+    "rig_id": "373077",
+    "rig": "IceRiver KS0 Ultra \u2013 400 GH/s Kaspa (KHeavyHash) | Low latency US rig | Stable 24/7 uptime #3",
+    "value": 0.43177126041666997,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T17:16:00+00:00",
+    "rig_id": "373077",
+    "rig": "IceRiver KS0 Ultra \u2013 400 GH/s Kaspa (KHeavyHash) | Low latency US rig | Stable 24/7 uptime #3",
+    "value": 0.43746157843137,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T17:17:00+00:00",
+    "rig_id": "373077",
+    "rig": "IceRiver KS0 Ultra \u2013 400 GH/s Kaspa (KHeavyHash) | Low latency US rig | Stable 24/7 uptime #3",
+    "value": 0.42574167592593,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T17:18:00+00:00",
+    "rig_id": "373077",
+    "rig": "IceRiver KS0 Ultra \u2013 400 GH/s Kaspa (KHeavyHash) | Low latency US rig | Stable 24/7 uptime #3",
+    "value": 0.41525544736841996,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T17:19:00+00:00",
+    "rig_id": "373077",
+    "rig": "IceRiver KS0 Ultra \u2013 400 GH/s Kaspa (KHeavyHash) | Low latency US rig | Stable 24/7 uptime #3",
+    "value": 0.40204276666667,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T17:20:00+00:00",
+    "rig_id": "373077",
+    "rig": "IceRiver KS0 Ultra \u2013 400 GH/s Kaspa (KHeavyHash) | Low latency US rig | Stable 24/7 uptime #3",
+    "value": 0.41166017460317,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T17:21:00+00:00",
+    "rig_id": "373077",
+    "rig": "IceRiver KS0 Ultra \u2013 400 GH/s Kaspa (KHeavyHash) | Low latency US rig | Stable 24/7 uptime #3",
+    "value": 0.41353948484847997,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T17:22:00+00:00",
+    "rig_id": "373077",
+    "rig": "IceRiver KS0 Ultra \u2013 400 GH/s Kaspa (KHeavyHash) | Low latency US rig | Stable 24/7 uptime #3",
+    "value": 0.41853805797101,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T17:23:00+00:00",
+    "rig_id": "373077",
+    "rig": "IceRiver KS0 Ultra \u2013 400 GH/s Kaspa (KHeavyHash) | Low latency US rig | Stable 24/7 uptime #3",
+    "value": 0.40424484722222,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-03-09T17:24:00+00:00",
+    "rig_id": "373077",
+    "rig": "IceRiver KS0 Ultra \u2013 400 GH/s Kaspa (KHeavyHash) | Low latency US rig | Stable 24/7 uptime #3",
+    "value": 0.38807505333333003,
     "unit": "TH/s"
   }
 ]
