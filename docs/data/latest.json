@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-24T06:15:29.688485+00:00",
+  "generated_at": "2026-03-24T07:37:34.051679+00:00",
   "summary": {
     "wallet_btc_confirmed": 0.00017975,
     "wallet_btc_pending": 0.0,
@@ -24,9 +24,9 @@
       "poolstatus": "online",
       "region": "us-south",
       "rpi": 96.83,
-      "hashrate_last_5min": 7373027.191,
-      "hashrate_last_15min": 12288378.652,
-      "hashrate_last_30min": 14131635.45,
+      "hashrate_last_5min": 0.0,
+      "hashrate_last_15min": 8601865.057,
+      "hashrate_last_30min": 9216283.989,
       "hashrate_unit": "mh",
       "advertised_hashrate": 0.0115,
       "advertised_unit": "ph",
@@ -57,8 +57,8 @@
       "hashrate_unit": "mh",
       "advertised_hashrate": 0.42,
       "advertised_unit": "gh",
-      "price_btc_day": 7.88e-06,
-      "price_btc_hour": 1.37836e-07,
+      "price_btc_day": 7.87e-06,
+      "price_btc_hour": 1.37661e-07,
       "price_btc_enabled": true,
       "active_rental_id": "5451881",
       "active_rental_paid_btc": 1.648e-05,
@@ -66,7 +66,7 @@
       "active_rental_end": "2026-03-24 21:01:16 UTC",
       "utilization_7d_pct": 99.99,
       "fallback_btc_day": 0.0,
-      "mrr_vs_fallback_btc_day": 3.31e-06
+      "mrr_vs_fallback_btc_day": 3.3e-06
     },
     {
       "id": "372932",
@@ -78,14 +78,14 @@
       "poolstatus": "online",
       "region": "us-south",
       "rpi": 0.0,
-      "hashrate_last_5min": 528.82,
-      "hashrate_last_15min": 502.25,
-      "hashrate_last_30min": 472.54,
+      "hashrate_last_5min": 436.548,
+      "hashrate_last_15min": 468.528,
+      "hashrate_last_30min": 472.037,
       "hashrate_unit": "mh",
       "advertised_hashrate": 0.42,
       "advertised_unit": "gh",
-      "price_btc_day": 7.88e-06,
-      "price_btc_hour": 1.37836e-07,
+      "price_btc_day": 7.87e-06,
+      "price_btc_hour": 1.37661e-07,
       "price_btc_enabled": true,
       "active_rental_id": "5451884",
       "active_rental_paid_btc": 1.648e-05,
@@ -93,7 +93,7 @@
       "active_rental_end": "2026-03-24 21:01:30 UTC",
       "utilization_7d_pct": 99.99,
       "fallback_btc_day": 0.0,
-      "mrr_vs_fallback_btc_day": 3.31e-06
+      "mrr_vs_fallback_btc_day": 3.3e-06
     },
     {
       "id": "373049",
