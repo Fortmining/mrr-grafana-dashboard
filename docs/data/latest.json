@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-24T07:37:34.051679+00:00",
+  "generated_at": "2026-03-24T08:34:02.184975+00:00",
   "summary": {
     "wallet_btc_confirmed": 0.00017975,
     "wallet_btc_pending": 0.0,
@@ -9,9 +9,9 @@
     "rigs_online": 3,
     "active_rentals": 3,
     "utilization_7d_pct": 37.33,
-    "current_mrr_btc_day_total": 2.114e-05,
+    "current_mrr_btc_day_total": 2.112e-05,
     "fallback_btc_day_total": 0.0,
-    "mrr_minus_fallback_btc_day": 2.114e-05
+    "mrr_minus_fallback_btc_day": 2.112e-05
   },
   "rigs": [
     {
@@ -24,14 +24,14 @@
       "poolstatus": "online",
       "region": "us-south",
       "rpi": 96.83,
-      "hashrate_last_5min": 0.0,
-      "hashrate_last_15min": 8601865.057,
-      "hashrate_last_30min": 9216283.989,
+      "hashrate_last_5min": 25805595.17,
+      "hashrate_last_15min": 13517216.518,
+      "hashrate_last_30min": 14746054.383,
       "hashrate_unit": "mh",
       "advertised_hashrate": 0.0115,
       "advertised_unit": "ph",
-      "price_btc_day": 0.0005025,
-      "price_btc_hour": 2.40781e-07,
+      "price_btc_day": 0.0005006,
+      "price_btc_hour": 2.39871e-07,
       "price_btc_enabled": true,
       "active_rental_id": "5457779",
       "active_rental_paid_btc": 2.89e-06,
@@ -39,7 +39,7 @@
       "active_rental_end": "2026-03-24 12:42:18 UTC",
       "utilization_7d_pct": 98.68,
       "fallback_btc_day": 0.0,
-      "mrr_vs_fallback_btc_day": 5.78e-06
+      "mrr_vs_fallback_btc_day": 5.76e-06
     },
     {
       "id": "372933",
@@ -58,7 +58,7 @@
       "advertised_hashrate": 0.42,
       "advertised_unit": "gh",
       "price_btc_day": 7.87e-06,
-      "price_btc_hour": 1.37661e-07,
+      "price_btc_hour": 1.37685e-07,
       "price_btc_enabled": true,
       "active_rental_id": "5451881",
       "active_rental_paid_btc": 1.648e-05,
@@ -78,14 +78,14 @@
       "poolstatus": "online",
       "region": "us-south",
       "rpi": 0.0,
-      "hashrate_last_5min": 436.548,
-      "hashrate_last_15min": 468.528,
-      "hashrate_last_30min": 472.037,
+      "hashrate_last_5min": 441.077,
+      "hashrate_last_15min": 424.171,
+      "hashrate_last_30min": 427.367,
       "hashrate_unit": "mh",
       "advertised_hashrate": 0.42,
       "advertised_unit": "gh",
       "price_btc_day": 7.87e-06,
-      "price_btc_hour": 1.37661e-07,
+      "price_btc_hour": 1.37685e-07,
       "price_btc_enabled": true,
       "active_rental_id": "5451884",
       "active_rental_paid_btc": 1.648e-05,
