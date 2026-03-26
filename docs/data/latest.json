@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-26T22:40:04.060831+00:00",
+  "generated_at": "2026-03-26T23:03:39.697758+00:00",
   "summary": {
     "wallet_btc_confirmed": 7.5e-06,
     "wallet_btc_pending": 0.0,
@@ -9,9 +9,9 @@
     "rigs_online": 3,
     "active_rentals": 3,
     "utilization_7d_pct": 36.54,
-    "current_mrr_btc_day_total": 2.026e-05,
+    "current_mrr_btc_day_total": 2.028e-05,
     "fallback_btc_day_total": 0.0,
-    "mrr_minus_fallback_btc_day": 2.026e-05
+    "mrr_minus_fallback_btc_day": 2.028e-05
   },
   "rigs": [
     {
@@ -24,14 +24,14 @@
       "poolstatus": "online",
       "region": "us-south",
       "rpi": 97.33,
-      "hashrate_last_5min": 14647359.362,
-      "hashrate_last_15min": 12384759.126,
-      "hashrate_last_30min": 11372543.24,
+      "hashrate_last_5min": 13932854.027,
+      "hashrate_last_15min": 13218348.692,
+      "hashrate_last_30min": 12801553.914,
       "hashrate_unit": "mh",
       "advertised_hashrate": 0.0115,
       "advertised_unit": "ph",
-      "price_btc_day": 0.0005076,
-      "price_btc_hour": 2.43225e-07,
+      "price_btc_day": 0.0005098,
+      "price_btc_hour": 2.44279e-07,
       "price_btc_enabled": true,
       "active_rental_id": "5459882",
       "active_rental_paid_btc": 1.596e-05,
@@ -39,7 +39,7 @@
       "active_rental_end": "2026-03-28 00:35:46 UTC",
       "utilization_7d_pct": 97.6,
       "fallback_btc_day": 0.0,
-      "mrr_vs_fallback_btc_day": 5.84e-06
+      "mrr_vs_fallback_btc_day": 5.86e-06
     },
     {
       "id": "372933",
@@ -51,9 +51,9 @@
       "poolstatus": "online",
       "region": "us-south",
       "rpi": 96.17,
-      "hashrate_last_5min": 610.634,
-      "hashrate_last_15min": 590.776,
-      "hashrate_last_30min": 546.096,
+      "hashrate_last_5min": 625.528,
+      "hashrate_last_15min": 575.883,
+      "hashrate_last_30min": 590.776,
       "hashrate_unit": "mh",
       "advertised_hashrate": 0.42,
       "advertised_unit": "gh",
@@ -78,9 +78,9 @@
       "poolstatus": "online",
       "region": "us-south",
       "rpi": 0.0,
-      "hashrate_last_5min": 463.667,
-      "hashrate_last_15min": 445.268,
-      "hashrate_last_30min": 491.384,
+      "hashrate_last_5min": 466.168,
+      "hashrate_last_15min": 438.503,
+      "hashrate_last_30min": 420.958,
       "hashrate_unit": "mh",
       "advertised_hashrate": 0.42,
       "advertised_unit": "gh",
