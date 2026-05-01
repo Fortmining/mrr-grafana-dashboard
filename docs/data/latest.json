@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-01T13:56:13.911790+00:00",
+  "generated_at": "2026-05-01T15:05:38.886935+00:00",
   "summary": {
     "wallet_btc_confirmed": 0.00012145,
     "wallet_btc_pending": 0.0,
@@ -24,9 +24,9 @@
       "poolstatus": "online",
       "region": "us-south",
       "rpi": 98.67,
-      "hashrate_last_5min": 9663973.932,
-      "hashrate_last_15min": 9341841.468,
-      "hashrate_last_30min": 11153836.58,
+      "hashrate_last_5min": 15462358.291,
+      "hashrate_last_15min": 17395153.078,
+      "hashrate_last_30min": 14214094.992,
       "hashrate_unit": "mh",
       "advertised_hashrate": 0.011,
       "advertised_unit": "ph",
