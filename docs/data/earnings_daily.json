@@ -1,11 +1,5 @@
 [
   {
-    "date": "2026-04-05",
-    "rig_id": "372881",
-    "rig": "Antminer S9",
-    "btc": 0.0
-  },
-  {
     "date": "2026-04-06",
     "rig_id": "372881",
     "rig": "Antminer S9",
@@ -178,5 +172,11 @@
     "rig_id": "372881",
     "rig": "Antminer S9",
     "btc": 2.362e-05
+  },
+  {
+    "date": "2026-05-05",
+    "rig_id": "372881",
+    "rig": "Antminer S9",
+    "btc": 0.0
   }
 ]
