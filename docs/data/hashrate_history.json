@@ -1,677 +1,5 @@
 [
   {
-    "time": "2026-05-16T12:44:00+00:00",
-    "rig_id": "372881",
-    "rig": "Antminer S9",
-    "value": 0.0,
-    "unit": "TH/s"
-  },
-  {
-    "time": "2026-05-16T12:45:00+00:00",
-    "rig_id": "372881",
-    "rig": "Antminer S9",
-    "value": 0.0,
-    "unit": "TH/s"
-  },
-  {
-    "time": "2026-05-16T12:46:00+00:00",
-    "rig_id": "372881",
-    "rig": "Antminer S9",
-    "value": 0.0,
-    "unit": "TH/s"
-  },
-  {
-    "time": "2026-05-16T12:47:00+00:00",
-    "rig_id": "372881",
-    "rig": "Antminer S9",
-    "value": 0.0,
-    "unit": "TH/s"
-  },
-  {
-    "time": "2026-05-16T12:48:00+00:00",
-    "rig_id": "372881",
-    "rig": "Antminer S9",
-    "value": 0.0,
-    "unit": "TH/s"
-  },
-  {
-    "time": "2026-05-16T12:49:00+00:00",
-    "rig_id": "372881",
-    "rig": "Antminer S9",
-    "value": 0.0,
-    "unit": "TH/s"
-  },
-  {
-    "time": "2026-05-16T12:50:00+00:00",
-    "rig_id": "372881",
-    "rig": "Antminer S9",
-    "value": 0.0,
-    "unit": "TH/s"
-  },
-  {
-    "time": "2026-05-16T12:51:00+00:00",
-    "rig_id": "372881",
-    "rig": "Antminer S9",
-    "value": 0.0,
-    "unit": "TH/s"
-  },
-  {
-    "time": "2026-05-16T12:52:00+00:00",
-    "rig_id": "372881",
-    "rig": "Antminer S9",
-    "value": 0.0,
-    "unit": "TH/s"
-  },
-  {
-    "time": "2026-05-16T12:53:00+00:00",
-    "rig_id": "372881",
-    "rig": "Antminer S9",
-    "value": 0.0,
-    "unit": "TH/s"
-  },
-  {
-    "time": "2026-05-16T12:54:00+00:00",
-    "rig_id": "372881",
-    "rig": "Antminer S9",
-    "value": 0.0,
-    "unit": "TH/s"
-  },
-  {
-    "time": "2026-05-16T12:55:00+00:00",
-    "rig_id": "372881",
-    "rig": "Antminer S9",
-    "value": 0.0,
-    "unit": "TH/s"
-  },
-  {
-    "time": "2026-05-16T12:56:00+00:00",
-    "rig_id": "372881",
-    "rig": "Antminer S9",
-    "value": 0.0,
-    "unit": "TH/s"
-  },
-  {
-    "time": "2026-05-16T12:57:00+00:00",
-    "rig_id": "372881",
-    "rig": "Antminer S9",
-    "value": 0.0,
-    "unit": "TH/s"
-  },
-  {
-    "time": "2026-05-16T12:58:00+00:00",
-    "rig_id": "372881",
-    "rig": "Antminer S9",
-    "value": 0.0,
-    "unit": "TH/s"
-  },
-  {
-    "time": "2026-05-16T12:59:00+00:00",
-    "rig_id": "372881",
-    "rig": "Antminer S9",
-    "value": 0.0,
-    "unit": "TH/s"
-  },
-  {
-    "time": "2026-05-16T13:00:00+00:00",
-    "rig_id": "372881",
-    "rig": "Antminer S9",
-    "value": 0.0,
-    "unit": "TH/s"
-  },
-  {
-    "time": "2026-05-16T13:01:00+00:00",
-    "rig_id": "372881",
-    "rig": "Antminer S9",
-    "value": 0.0,
-    "unit": "TH/s"
-  },
-  {
-    "time": "2026-05-16T13:02:00+00:00",
-    "rig_id": "372881",
-    "rig": "Antminer S9",
-    "value": 0.0,
-    "unit": "TH/s"
-  },
-  {
-    "time": "2026-05-16T13:03:00+00:00",
-    "rig_id": "372881",
-    "rig": "Antminer S9",
-    "value": 0.0,
-    "unit": "TH/s"
-  },
-  {
-    "time": "2026-05-16T13:04:00+00:00",
-    "rig_id": "372881",
-    "rig": "Antminer S9",
-    "value": 0.0,
-    "unit": "TH/s"
-  },
-  {
-    "time": "2026-05-16T13:05:00+00:00",
-    "rig_id": "372881",
-    "rig": "Antminer S9",
-    "value": 0.0,
-    "unit": "TH/s"
-  },
-  {
-    "time": "2026-05-16T13:06:00+00:00",
-    "rig_id": "372881",
-    "rig": "Antminer S9",
-    "value": 0.0,
-    "unit": "TH/s"
-  },
-  {
-    "time": "2026-05-16T13:07:00+00:00",
-    "rig_id": "372881",
-    "rig": "Antminer S9",
-    "value": 0.0,
-    "unit": "TH/s"
-  },
-  {
-    "time": "2026-05-16T13:08:00+00:00",
-    "rig_id": "372881",
-    "rig": "Antminer S9",
-    "value": 0.0,
-    "unit": "TH/s"
-  },
-  {
-    "time": "2026-05-16T13:09:00+00:00",
-    "rig_id": "372881",
-    "rig": "Antminer S9",
-    "value": 0.0,
-    "unit": "TH/s"
-  },
-  {
-    "time": "2026-05-16T13:10:00+00:00",
-    "rig_id": "372881",
-    "rig": "Antminer S9",
-    "value": 0.0,
-    "unit": "TH/s"
-  },
-  {
-    "time": "2026-05-16T13:11:00+00:00",
-    "rig_id": "372881",
-    "rig": "Antminer S9",
-    "value": 0.0,
-    "unit": "TH/s"
-  },
-  {
-    "time": "2026-05-16T13:12:00+00:00",
-    "rig_id": "372881",
-    "rig": "Antminer S9",
-    "value": 0.0,
-    "unit": "TH/s"
-  },
-  {
-    "time": "2026-05-16T13:13:00+00:00",
-    "rig_id": "372881",
-    "rig": "Antminer S9",
-    "value": 0.0,
-    "unit": "TH/s"
-  },
-  {
-    "time": "2026-05-16T13:14:00+00:00",
-    "rig_id": "372881",
-    "rig": "Antminer S9",
-    "value": 0.0,
-    "unit": "TH/s"
-  },
-  {
-    "time": "2026-05-16T13:15:00+00:00",
-    "rig_id": "372881",
-    "rig": "Antminer S9",
-    "value": 0.0,
-    "unit": "TH/s"
-  },
-  {
-    "time": "2026-05-16T13:16:00+00:00",
-    "rig_id": "372881",
-    "rig": "Antminer S9",
-    "value": 0.0,
-    "unit": "TH/s"
-  },
-  {
-    "time": "2026-05-16T13:17:00+00:00",
-    "rig_id": "372881",
-    "rig": "Antminer S9",
-    "value": 0.0,
-    "unit": "TH/s"
-  },
-  {
-    "time": "2026-05-16T13:18:00+00:00",
-    "rig_id": "372881",
-    "rig": "Antminer S9",
-    "value": 0.0,
-    "unit": "TH/s"
-  },
-  {
-    "time": "2026-05-16T13:19:00+00:00",
-    "rig_id": "372881",
-    "rig": "Antminer S9",
-    "value": 0.0,
-    "unit": "TH/s"
-  },
-  {
-    "time": "2026-05-16T13:20:00+00:00",
-    "rig_id": "372881",
-    "rig": "Antminer S9",
-    "value": 0.0,
-    "unit": "TH/s"
-  },
-  {
-    "time": "2026-05-16T13:21:00+00:00",
-    "rig_id": "372881",
-    "rig": "Antminer S9",
-    "value": 0.0,
-    "unit": "TH/s"
-  },
-  {
-    "time": "2026-05-16T13:22:00+00:00",
-    "rig_id": "372881",
-    "rig": "Antminer S9",
-    "value": 0.0,
-    "unit": "TH/s"
-  },
-  {
-    "time": "2026-05-16T13:23:00+00:00",
-    "rig_id": "372881",
-    "rig": "Antminer S9",
-    "value": 0.0,
-    "unit": "TH/s"
-  },
-  {
-    "time": "2026-05-16T13:24:00+00:00",
-    "rig_id": "372881",
-    "rig": "Antminer S9",
-    "value": 0.0,
-    "unit": "TH/s"
-  },
-  {
-    "time": "2026-05-16T13:25:00+00:00",
-    "rig_id": "372881",
-    "rig": "Antminer S9",
-    "value": 0.0,
-    "unit": "TH/s"
-  },
-  {
-    "time": "2026-05-16T13:26:00+00:00",
-    "rig_id": "372881",
-    "rig": "Antminer S9",
-    "value": 0.0,
-    "unit": "TH/s"
-  },
-  {
-    "time": "2026-05-16T13:27:00+00:00",
-    "rig_id": "372881",
-    "rig": "Antminer S9",
-    "value": 0.0,
-    "unit": "TH/s"
-  },
-  {
-    "time": "2026-05-16T13:28:00+00:00",
-    "rig_id": "372881",
-    "rig": "Antminer S9",
-    "value": 0.0,
-    "unit": "TH/s"
-  },
-  {
-    "time": "2026-05-16T13:29:00+00:00",
-    "rig_id": "372881",
-    "rig": "Antminer S9",
-    "value": 0.0,
-    "unit": "TH/s"
-  },
-  {
-    "time": "2026-05-16T13:30:00+00:00",
-    "rig_id": "372881",
-    "rig": "Antminer S9",
-    "value": 0.0,
-    "unit": "TH/s"
-  },
-  {
-    "time": "2026-05-16T13:31:00+00:00",
-    "rig_id": "372881",
-    "rig": "Antminer S9",
-    "value": 0.0,
-    "unit": "TH/s"
-  },
-  {
-    "time": "2026-05-16T13:32:00+00:00",
-    "rig_id": "372881",
-    "rig": "Antminer S9",
-    "value": 0.0,
-    "unit": "TH/s"
-  },
-  {
-    "time": "2026-05-16T13:33:00+00:00",
-    "rig_id": "372881",
-    "rig": "Antminer S9",
-    "value": 0.0,
-    "unit": "TH/s"
-  },
-  {
-    "time": "2026-05-16T13:34:00+00:00",
-    "rig_id": "372881",
-    "rig": "Antminer S9",
-    "value": 0.0,
-    "unit": "TH/s"
-  },
-  {
-    "time": "2026-05-16T13:35:00+00:00",
-    "rig_id": "372881",
-    "rig": "Antminer S9",
-    "value": 0.0,
-    "unit": "TH/s"
-  },
-  {
-    "time": "2026-05-16T13:36:00+00:00",
-    "rig_id": "372881",
-    "rig": "Antminer S9",
-    "value": 0.0,
-    "unit": "TH/s"
-  },
-  {
-    "time": "2026-05-16T13:37:00+00:00",
-    "rig_id": "372881",
-    "rig": "Antminer S9",
-    "value": 0.0,
-    "unit": "TH/s"
-  },
-  {
-    "time": "2026-05-16T13:38:00+00:00",
-    "rig_id": "372881",
-    "rig": "Antminer S9",
-    "value": 0.0,
-    "unit": "TH/s"
-  },
-  {
-    "time": "2026-05-16T13:39:00+00:00",
-    "rig_id": "372881",
-    "rig": "Antminer S9",
-    "value": 0.0,
-    "unit": "TH/s"
-  },
-  {
-    "time": "2026-05-16T13:40:00+00:00",
-    "rig_id": "372881",
-    "rig": "Antminer S9",
-    "value": 0.0,
-    "unit": "TH/s"
-  },
-  {
-    "time": "2026-05-16T13:41:00+00:00",
-    "rig_id": "372881",
-    "rig": "Antminer S9",
-    "value": 0.0,
-    "unit": "TH/s"
-  },
-  {
-    "time": "2026-05-16T13:42:00+00:00",
-    "rig_id": "372881",
-    "rig": "Antminer S9",
-    "value": 0.0,
-    "unit": "TH/s"
-  },
-  {
-    "time": "2026-05-16T13:43:00+00:00",
-    "rig_id": "372881",
-    "rig": "Antminer S9",
-    "value": 0.0,
-    "unit": "TH/s"
-  },
-  {
-    "time": "2026-05-16T13:44:00+00:00",
-    "rig_id": "372881",
-    "rig": "Antminer S9",
-    "value": 0.0,
-    "unit": "TH/s"
-  },
-  {
-    "time": "2026-05-16T13:45:00+00:00",
-    "rig_id": "372881",
-    "rig": "Antminer S9",
-    "value": 0.0,
-    "unit": "TH/s"
-  },
-  {
-    "time": "2026-05-16T13:46:00+00:00",
-    "rig_id": "372881",
-    "rig": "Antminer S9",
-    "value": 0.0,
-    "unit": "TH/s"
-  },
-  {
-    "time": "2026-05-16T13:47:00+00:00",
-    "rig_id": "372881",
-    "rig": "Antminer S9",
-    "value": 0.0,
-    "unit": "TH/s"
-  },
-  {
-    "time": "2026-05-16T13:48:00+00:00",
-    "rig_id": "372881",
-    "rig": "Antminer S9",
-    "value": 0.0,
-    "unit": "TH/s"
-  },
-  {
-    "time": "2026-05-16T13:49:00+00:00",
-    "rig_id": "372881",
-    "rig": "Antminer S9",
-    "value": 0.0,
-    "unit": "TH/s"
-  },
-  {
-    "time": "2026-05-16T13:50:00+00:00",
-    "rig_id": "372881",
-    "rig": "Antminer S9",
-    "value": 0.0,
-    "unit": "TH/s"
-  },
-  {
-    "time": "2026-05-16T13:51:00+00:00",
-    "rig_id": "372881",
-    "rig": "Antminer S9",
-    "value": 0.0,
-    "unit": "TH/s"
-  },
-  {
-    "time": "2026-05-16T13:52:00+00:00",
-    "rig_id": "372881",
-    "rig": "Antminer S9",
-    "value": 0.0,
-    "unit": "TH/s"
-  },
-  {
-    "time": "2026-05-16T13:53:00+00:00",
-    "rig_id": "372881",
-    "rig": "Antminer S9",
-    "value": 0.0,
-    "unit": "TH/s"
-  },
-  {
-    "time": "2026-05-16T13:54:00+00:00",
-    "rig_id": "372881",
-    "rig": "Antminer S9",
-    "value": 0.0,
-    "unit": "TH/s"
-  },
-  {
-    "time": "2026-05-16T13:55:00+00:00",
-    "rig_id": "372881",
-    "rig": "Antminer S9",
-    "value": 0.0,
-    "unit": "TH/s"
-  },
-  {
-    "time": "2026-05-16T13:56:00+00:00",
-    "rig_id": "372881",
-    "rig": "Antminer S9",
-    "value": 0.0,
-    "unit": "TH/s"
-  },
-  {
-    "time": "2026-05-16T13:57:00+00:00",
-    "rig_id": "372881",
-    "rig": "Antminer S9",
-    "value": 0.0,
-    "unit": "TH/s"
-  },
-  {
-    "time": "2026-05-16T13:58:00+00:00",
-    "rig_id": "372881",
-    "rig": "Antminer S9",
-    "value": 0.0,
-    "unit": "TH/s"
-  },
-  {
-    "time": "2026-05-16T13:59:00+00:00",
-    "rig_id": "372881",
-    "rig": "Antminer S9",
-    "value": 0.0,
-    "unit": "TH/s"
-  },
-  {
-    "time": "2026-05-16T14:00:00+00:00",
-    "rig_id": "372881",
-    "rig": "Antminer S9",
-    "value": 0.0,
-    "unit": "TH/s"
-  },
-  {
-    "time": "2026-05-16T14:01:00+00:00",
-    "rig_id": "372881",
-    "rig": "Antminer S9",
-    "value": 0.0,
-    "unit": "TH/s"
-  },
-  {
-    "time": "2026-05-16T14:02:00+00:00",
-    "rig_id": "372881",
-    "rig": "Antminer S9",
-    "value": 0.0,
-    "unit": "TH/s"
-  },
-  {
-    "time": "2026-05-16T14:03:00+00:00",
-    "rig_id": "372881",
-    "rig": "Antminer S9",
-    "value": 0.0,
-    "unit": "TH/s"
-  },
-  {
-    "time": "2026-05-16T14:04:00+00:00",
-    "rig_id": "372881",
-    "rig": "Antminer S9",
-    "value": 0.0,
-    "unit": "TH/s"
-  },
-  {
-    "time": "2026-05-16T14:05:00+00:00",
-    "rig_id": "372881",
-    "rig": "Antminer S9",
-    "value": 0.0,
-    "unit": "TH/s"
-  },
-  {
-    "time": "2026-05-16T14:06:00+00:00",
-    "rig_id": "372881",
-    "rig": "Antminer S9",
-    "value": 0.0,
-    "unit": "TH/s"
-  },
-  {
-    "time": "2026-05-16T14:07:00+00:00",
-    "rig_id": "372881",
-    "rig": "Antminer S9",
-    "value": 0.0,
-    "unit": "TH/s"
-  },
-  {
-    "time": "2026-05-16T14:08:00+00:00",
-    "rig_id": "372881",
-    "rig": "Antminer S9",
-    "value": 0.0,
-    "unit": "TH/s"
-  },
-  {
-    "time": "2026-05-16T14:09:00+00:00",
-    "rig_id": "372881",
-    "rig": "Antminer S9",
-    "value": 0.0,
-    "unit": "TH/s"
-  },
-  {
-    "time": "2026-05-16T14:10:00+00:00",
-    "rig_id": "372881",
-    "rig": "Antminer S9",
-    "value": 0.0,
-    "unit": "TH/s"
-  },
-  {
-    "time": "2026-05-16T14:11:00+00:00",
-    "rig_id": "372881",
-    "rig": "Antminer S9",
-    "value": 0.0,
-    "unit": "TH/s"
-  },
-  {
-    "time": "2026-05-16T14:12:00+00:00",
-    "rig_id": "372881",
-    "rig": "Antminer S9",
-    "value": 0.0,
-    "unit": "TH/s"
-  },
-  {
-    "time": "2026-05-16T14:13:00+00:00",
-    "rig_id": "372881",
-    "rig": "Antminer S9",
-    "value": 0.0,
-    "unit": "TH/s"
-  },
-  {
-    "time": "2026-05-16T14:14:00+00:00",
-    "rig_id": "372881",
-    "rig": "Antminer S9",
-    "value": 0.0,
-    "unit": "TH/s"
-  },
-  {
-    "time": "2026-05-16T14:15:00+00:00",
-    "rig_id": "372881",
-    "rig": "Antminer S9",
-    "value": 0.0,
-    "unit": "TH/s"
-  },
-  {
-    "time": "2026-05-16T14:16:00+00:00",
-    "rig_id": "372881",
-    "rig": "Antminer S9",
-    "value": 0.0,
-    "unit": "TH/s"
-  },
-  {
-    "time": "2026-05-16T14:17:00+00:00",
-    "rig_id": "372881",
-    "rig": "Antminer S9",
-    "value": 0.0,
-    "unit": "TH/s"
-  },
-  {
-    "time": "2026-05-16T14:18:00+00:00",
-    "rig_id": "372881",
-    "rig": "Antminer S9",
-    "value": 0.0,
-    "unit": "TH/s"
-  },
-  {
-    "time": "2026-05-16T14:19:00+00:00",
-    "rig_id": "372881",
-    "rig": "Antminer S9",
-    "value": 0.0,
-    "unit": "TH/s"
-  },
-  {
     "time": "2026-05-16T14:20:00+00:00",
     "rig_id": "372881",
     "rig": "Antminer S9",
@@ -70561,6 +69889,678 @@
   },
   {
     "time": "2026-05-23T12:44:00+00:00",
+    "rig_id": "372881",
+    "rig": "Antminer S9",
+    "value": 0.0,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-05-23T12:45:00+00:00",
+    "rig_id": "372881",
+    "rig": "Antminer S9",
+    "value": 0.0,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-05-23T12:46:00+00:00",
+    "rig_id": "372881",
+    "rig": "Antminer S9",
+    "value": 0.0,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-05-23T12:47:00+00:00",
+    "rig_id": "372881",
+    "rig": "Antminer S9",
+    "value": 0.0,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-05-23T12:48:00+00:00",
+    "rig_id": "372881",
+    "rig": "Antminer S9",
+    "value": 0.0,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-05-23T12:49:00+00:00",
+    "rig_id": "372881",
+    "rig": "Antminer S9",
+    "value": 0.0,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-05-23T12:50:00+00:00",
+    "rig_id": "372881",
+    "rig": "Antminer S9",
+    "value": 0.0,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-05-23T12:51:00+00:00",
+    "rig_id": "372881",
+    "rig": "Antminer S9",
+    "value": 0.0,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-05-23T12:52:00+00:00",
+    "rig_id": "372881",
+    "rig": "Antminer S9",
+    "value": 0.0,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-05-23T12:53:00+00:00",
+    "rig_id": "372881",
+    "rig": "Antminer S9",
+    "value": 0.0,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-05-23T12:54:00+00:00",
+    "rig_id": "372881",
+    "rig": "Antminer S9",
+    "value": 0.0,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-05-23T12:55:00+00:00",
+    "rig_id": "372881",
+    "rig": "Antminer S9",
+    "value": 0.0,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-05-23T12:56:00+00:00",
+    "rig_id": "372881",
+    "rig": "Antminer S9",
+    "value": 0.0,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-05-23T12:57:00+00:00",
+    "rig_id": "372881",
+    "rig": "Antminer S9",
+    "value": 0.0,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-05-23T12:58:00+00:00",
+    "rig_id": "372881",
+    "rig": "Antminer S9",
+    "value": 0.0,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-05-23T12:59:00+00:00",
+    "rig_id": "372881",
+    "rig": "Antminer S9",
+    "value": 0.0,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-05-23T13:00:00+00:00",
+    "rig_id": "372881",
+    "rig": "Antminer S9",
+    "value": 0.0,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-05-23T13:01:00+00:00",
+    "rig_id": "372881",
+    "rig": "Antminer S9",
+    "value": 0.0,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-05-23T13:02:00+00:00",
+    "rig_id": "372881",
+    "rig": "Antminer S9",
+    "value": 0.0,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-05-23T13:03:00+00:00",
+    "rig_id": "372881",
+    "rig": "Antminer S9",
+    "value": 0.0,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-05-23T13:04:00+00:00",
+    "rig_id": "372881",
+    "rig": "Antminer S9",
+    "value": 0.0,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-05-23T13:05:00+00:00",
+    "rig_id": "372881",
+    "rig": "Antminer S9",
+    "value": 0.0,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-05-23T13:06:00+00:00",
+    "rig_id": "372881",
+    "rig": "Antminer S9",
+    "value": 0.0,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-05-23T13:07:00+00:00",
+    "rig_id": "372881",
+    "rig": "Antminer S9",
+    "value": 0.0,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-05-23T13:08:00+00:00",
+    "rig_id": "372881",
+    "rig": "Antminer S9",
+    "value": 0.0,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-05-23T13:09:00+00:00",
+    "rig_id": "372881",
+    "rig": "Antminer S9",
+    "value": 0.0,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-05-23T13:10:00+00:00",
+    "rig_id": "372881",
+    "rig": "Antminer S9",
+    "value": 0.0,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-05-23T13:11:00+00:00",
+    "rig_id": "372881",
+    "rig": "Antminer S9",
+    "value": 0.0,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-05-23T13:12:00+00:00",
+    "rig_id": "372881",
+    "rig": "Antminer S9",
+    "value": 0.0,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-05-23T13:13:00+00:00",
+    "rig_id": "372881",
+    "rig": "Antminer S9",
+    "value": 0.0,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-05-23T13:14:00+00:00",
+    "rig_id": "372881",
+    "rig": "Antminer S9",
+    "value": 0.0,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-05-23T13:15:00+00:00",
+    "rig_id": "372881",
+    "rig": "Antminer S9",
+    "value": 0.0,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-05-23T13:16:00+00:00",
+    "rig_id": "372881",
+    "rig": "Antminer S9",
+    "value": 0.0,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-05-23T13:17:00+00:00",
+    "rig_id": "372881",
+    "rig": "Antminer S9",
+    "value": 0.0,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-05-23T13:18:00+00:00",
+    "rig_id": "372881",
+    "rig": "Antminer S9",
+    "value": 0.0,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-05-23T13:19:00+00:00",
+    "rig_id": "372881",
+    "rig": "Antminer S9",
+    "value": 0.0,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-05-23T13:20:00+00:00",
+    "rig_id": "372881",
+    "rig": "Antminer S9",
+    "value": 0.0,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-05-23T13:21:00+00:00",
+    "rig_id": "372881",
+    "rig": "Antminer S9",
+    "value": 0.0,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-05-23T13:22:00+00:00",
+    "rig_id": "372881",
+    "rig": "Antminer S9",
+    "value": 0.0,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-05-23T13:23:00+00:00",
+    "rig_id": "372881",
+    "rig": "Antminer S9",
+    "value": 0.0,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-05-23T13:24:00+00:00",
+    "rig_id": "372881",
+    "rig": "Antminer S9",
+    "value": 0.0,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-05-23T13:25:00+00:00",
+    "rig_id": "372881",
+    "rig": "Antminer S9",
+    "value": 0.0,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-05-23T13:26:00+00:00",
+    "rig_id": "372881",
+    "rig": "Antminer S9",
+    "value": 0.0,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-05-23T13:27:00+00:00",
+    "rig_id": "372881",
+    "rig": "Antminer S9",
+    "value": 0.0,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-05-23T13:28:00+00:00",
+    "rig_id": "372881",
+    "rig": "Antminer S9",
+    "value": 0.0,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-05-23T13:29:00+00:00",
+    "rig_id": "372881",
+    "rig": "Antminer S9",
+    "value": 0.0,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-05-23T13:30:00+00:00",
+    "rig_id": "372881",
+    "rig": "Antminer S9",
+    "value": 0.0,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-05-23T13:31:00+00:00",
+    "rig_id": "372881",
+    "rig": "Antminer S9",
+    "value": 0.0,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-05-23T13:32:00+00:00",
+    "rig_id": "372881",
+    "rig": "Antminer S9",
+    "value": 0.0,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-05-23T13:33:00+00:00",
+    "rig_id": "372881",
+    "rig": "Antminer S9",
+    "value": 0.0,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-05-23T13:34:00+00:00",
+    "rig_id": "372881",
+    "rig": "Antminer S9",
+    "value": 0.0,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-05-23T13:35:00+00:00",
+    "rig_id": "372881",
+    "rig": "Antminer S9",
+    "value": 0.0,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-05-23T13:36:00+00:00",
+    "rig_id": "372881",
+    "rig": "Antminer S9",
+    "value": 0.0,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-05-23T13:37:00+00:00",
+    "rig_id": "372881",
+    "rig": "Antminer S9",
+    "value": 0.0,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-05-23T13:38:00+00:00",
+    "rig_id": "372881",
+    "rig": "Antminer S9",
+    "value": 0.0,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-05-23T13:39:00+00:00",
+    "rig_id": "372881",
+    "rig": "Antminer S9",
+    "value": 0.0,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-05-23T13:40:00+00:00",
+    "rig_id": "372881",
+    "rig": "Antminer S9",
+    "value": 0.0,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-05-23T13:41:00+00:00",
+    "rig_id": "372881",
+    "rig": "Antminer S9",
+    "value": 0.0,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-05-23T13:42:00+00:00",
+    "rig_id": "372881",
+    "rig": "Antminer S9",
+    "value": 0.0,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-05-23T13:43:00+00:00",
+    "rig_id": "372881",
+    "rig": "Antminer S9",
+    "value": 0.0,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-05-23T13:44:00+00:00",
+    "rig_id": "372881",
+    "rig": "Antminer S9",
+    "value": 0.0,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-05-23T13:45:00+00:00",
+    "rig_id": "372881",
+    "rig": "Antminer S9",
+    "value": 0.0,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-05-23T13:46:00+00:00",
+    "rig_id": "372881",
+    "rig": "Antminer S9",
+    "value": 0.0,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-05-23T13:47:00+00:00",
+    "rig_id": "372881",
+    "rig": "Antminer S9",
+    "value": 0.0,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-05-23T13:48:00+00:00",
+    "rig_id": "372881",
+    "rig": "Antminer S9",
+    "value": 0.0,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-05-23T13:49:00+00:00",
+    "rig_id": "372881",
+    "rig": "Antminer S9",
+    "value": 0.0,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-05-23T13:50:00+00:00",
+    "rig_id": "372881",
+    "rig": "Antminer S9",
+    "value": 0.0,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-05-23T13:51:00+00:00",
+    "rig_id": "372881",
+    "rig": "Antminer S9",
+    "value": 0.0,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-05-23T13:52:00+00:00",
+    "rig_id": "372881",
+    "rig": "Antminer S9",
+    "value": 0.0,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-05-23T13:53:00+00:00",
+    "rig_id": "372881",
+    "rig": "Antminer S9",
+    "value": 0.0,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-05-23T13:54:00+00:00",
+    "rig_id": "372881",
+    "rig": "Antminer S9",
+    "value": 0.0,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-05-23T13:55:00+00:00",
+    "rig_id": "372881",
+    "rig": "Antminer S9",
+    "value": 0.0,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-05-23T13:56:00+00:00",
+    "rig_id": "372881",
+    "rig": "Antminer S9",
+    "value": 0.0,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-05-23T13:57:00+00:00",
+    "rig_id": "372881",
+    "rig": "Antminer S9",
+    "value": 0.0,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-05-23T13:58:00+00:00",
+    "rig_id": "372881",
+    "rig": "Antminer S9",
+    "value": 0.0,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-05-23T13:59:00+00:00",
+    "rig_id": "372881",
+    "rig": "Antminer S9",
+    "value": 0.0,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-05-23T14:00:00+00:00",
+    "rig_id": "372881",
+    "rig": "Antminer S9",
+    "value": 0.0,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-05-23T14:01:00+00:00",
+    "rig_id": "372881",
+    "rig": "Antminer S9",
+    "value": 0.0,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-05-23T14:02:00+00:00",
+    "rig_id": "372881",
+    "rig": "Antminer S9",
+    "value": 0.0,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-05-23T14:03:00+00:00",
+    "rig_id": "372881",
+    "rig": "Antminer S9",
+    "value": 0.0,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-05-23T14:04:00+00:00",
+    "rig_id": "372881",
+    "rig": "Antminer S9",
+    "value": 0.0,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-05-23T14:05:00+00:00",
+    "rig_id": "372881",
+    "rig": "Antminer S9",
+    "value": 0.0,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-05-23T14:06:00+00:00",
+    "rig_id": "372881",
+    "rig": "Antminer S9",
+    "value": 0.0,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-05-23T14:07:00+00:00",
+    "rig_id": "372881",
+    "rig": "Antminer S9",
+    "value": 0.0,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-05-23T14:08:00+00:00",
+    "rig_id": "372881",
+    "rig": "Antminer S9",
+    "value": 0.0,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-05-23T14:09:00+00:00",
+    "rig_id": "372881",
+    "rig": "Antminer S9",
+    "value": 0.0,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-05-23T14:10:00+00:00",
+    "rig_id": "372881",
+    "rig": "Antminer S9",
+    "value": 0.0,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-05-23T14:11:00+00:00",
+    "rig_id": "372881",
+    "rig": "Antminer S9",
+    "value": 0.0,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-05-23T14:12:00+00:00",
+    "rig_id": "372881",
+    "rig": "Antminer S9",
+    "value": 0.0,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-05-23T14:13:00+00:00",
+    "rig_id": "372881",
+    "rig": "Antminer S9",
+    "value": 0.0,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-05-23T14:14:00+00:00",
+    "rig_id": "372881",
+    "rig": "Antminer S9",
+    "value": 0.0,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-05-23T14:15:00+00:00",
+    "rig_id": "372881",
+    "rig": "Antminer S9",
+    "value": 0.0,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-05-23T14:16:00+00:00",
+    "rig_id": "372881",
+    "rig": "Antminer S9",
+    "value": 0.0,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-05-23T14:17:00+00:00",
+    "rig_id": "372881",
+    "rig": "Antminer S9",
+    "value": 0.0,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-05-23T14:18:00+00:00",
+    "rig_id": "372881",
+    "rig": "Antminer S9",
+    "value": 0.0,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-05-23T14:19:00+00:00",
+    "rig_id": "372881",
+    "rig": "Antminer S9",
+    "value": 0.0,
+    "unit": "TH/s"
+  },
+  {
+    "time": "2026-05-23T14:20:00+00:00",
     "rig_id": "372881",
     "rig": "Antminer S9",
     "value": 0.0,
