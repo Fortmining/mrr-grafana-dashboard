@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-26T21:53:17.922431+00:00",
+  "generated_at": "2026-05-26T23:16:05.512920+00:00",
   "summary": {
     "wallet_btc_confirmed": 0.0,
     "wallet_btc_pending": 0.0,
@@ -30,8 +30,8 @@
       "hashrate_unit": "mh",
       "advertised_hashrate": 0.011,
       "advertised_unit": "ph",
-      "price_btc_day": 0.00053683,
-      "price_btc_hour": 2.46049e-07,
+      "price_btc_day": 0.00053714,
+      "price_btc_hour": 2.46188e-07,
       "price_btc_enabled": true,
       "active_rental_id": null,
       "active_rental_paid_btc": 0.0,
